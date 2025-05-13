@@ -1,18 +1,19 @@
-# Last updated: 5/13/2025, 3:31:28 PM
+# Last updated: 5/13/2025, 3:57:04 PM
 class Solution:
-    def sortedSquares(self, nums: List[int]) -> List[int]:
-        k,j = len(nums) - 1,len(nums) - 1
-        i = 0
-        result = [float('inf')] * len(nums)
-        while k >= 0:
-            if nums[i]*nums[i] > nums[j] * nums[j]:
-                result[k] = nums[i]*nums[i]
-                i += 1
-            elif nums[i]*nums[i] <= nums[j] * nums[j]:
-                result[k] = nums[j]*nums[j]
-                j -= 1
-            k -= 1
-        return result
+    def minSubArrayLen(self, target: int, nums: List[int]) -> int:
+        l , r ,total = 0 ,0 ,0
+        lenth = float('inf')
+        while r < len(nums):
+            total += nums[r]
+            while total >= target:
+                lenth = min(lenth,(r - l +1))
+                total -= nums[l]
+                l += 1
+            r += 1
+        
+           
+        return lenth if lenth < float('inf') else 0
 
+        
 
         

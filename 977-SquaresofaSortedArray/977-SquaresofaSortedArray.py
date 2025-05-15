@@ -1,32 +1,18 @@
-# Last updated: 5/14/2025, 3:55:52 PM
+# Last updated: 5/15/2025, 9:49:48 AM
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
 class Solution:
-    def generateMatrix(self, n: int) -> List[List[int]]:
-        nums = [[0]*n for _ in range(n)] #initialize the N*N matrix
-        count = 1
-        loop = n // 2
-        mid = n // 2
-        startx , starty = 0,0
-        for offset in range(1,loop+1):
-            for i in range(starty,n-offset):
-                nums[startx][i] = count
-                count += 1
-            for i in range(startx,n-offset):
-                nums[i][n - offset] = count
-                count += 1
-            for i in range(n-offset, starty, -1):
-                nums[n - offset][i] = count
-                count += 1
-            for i in range(n-offset , startx , -1):
-                nums[i][starty] = count
-                count += 1
-            startx += 1
-            starty += 1
-        if n % 2 != 0:
-            nums[mid][mid] = n**2
-        return nums
+    def removeElements(self, head: Optional[ListNode], val: int) -> Optional[ListNode]:
+        dummy_node = ListNode(next = head)
+        current = dummy_node
+        while current.next:
+            if current.next.val == val:
+                current.next = current.next.next
+            else:
+                current = current.next
 
-
-
-
-
+        return dummy_node.next
         

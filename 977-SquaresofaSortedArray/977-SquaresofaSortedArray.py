@@ -1,18 +1,42 @@
-# Last updated: 5/15/2025, 9:49:48 AM
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
-class Solution:
-    def removeElements(self, head: Optional[ListNode], val: int) -> Optional[ListNode]:
-        dummy_node = ListNode(next = head)
-        current = dummy_node
-        while current.next:
-            if current.next.val == val:
-                current.next = current.next.next
-            else:
-                current = current.next
+# Last updated: 5/15/2025, 10:36:57 AM
+class ListNode:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
 
-        return dummy_node.next
-        
+class MyLinkedList:
+    def __init__(self):
+        self.dummy_head = ListNode()
+        self.size = 0
+
+    def get(self, index: int) -> int:
+        if index < 0 or index >= self.size:
+            return -1
+        current = self.dummy_head.next
+        for _ in range(index):
+            current = current.next
+        return current.val
+
+    def addAtHead(self, val: int) -> None:
+        self.addAtIndex(0, val)
+
+    def addAtTail(self, val: int) -> None:
+        self.addAtIndex(self.size, val)
+
+    def addAtIndex(self, index: int, val: int) -> None:
+        if index < 0 or index > self.size:
+            return
+        current = self.dummy_head
+        for _ in range(index):
+            current = current.next
+        current.next = ListNode(val, current.next)
+        self.size += 1
+
+    def deleteAtIndex(self, index: int) -> None:
+        if index < 0 or index >= self.size:
+            return
+        current = self.dummy_head
+        for _ in range(index):
+            current = current.next
+        current.next = current.next.next
+        self.size -= 1

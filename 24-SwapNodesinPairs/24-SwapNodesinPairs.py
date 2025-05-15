@@ -1,25 +1,26 @@
-# Last updated: 5/15/2025, 2:18:38 PM
+# Last updated: 5/15/2025, 2:38:45 PM
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
 class Solution:
-    def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        dummy = ListNode(next=head)
-        curr = dummy
-        while curr.next and curr.next.next:
-            tmp1 = curr.next
-            tmp2 = curr.next.next.next
-
-            curr.next = curr.next.next
-            curr.next.next = tmp1
-            tmp1.next = tmp2
-            curr = curr.next.next
+    def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
+        dummy = ListNode(0,head)
+        slow = fast = dummy
+        
+        
+        
+        for _ in range(n+1):
+            fast = fast.next
+        while fast:
+            fast = fast.next
+            slow = slow.next
+        
+        slow.next = slow.next.next
+            
         return dummy.next
-
-
-
-
-
+        
+        
+        
         

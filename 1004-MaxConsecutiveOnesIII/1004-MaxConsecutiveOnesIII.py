@@ -1,6 +1,20 @@
-# Last updated: 5/17/2025, 10:55:25 AM
+# Last updated: 5/17/2025, 4:39:28 PM
 class Solution:
-    def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        return list(set(nums1) & set(nums2))
-
+    def isHappy(self, n: int) -> bool:
+        record = set()
+        while True:
+            n = self.get_sum(n)
+            if n == 1:
+                return True
+            if n in record:
+                return False
+            else:
+                record.add(n)
+            
         
+    def get_sum(self, n:int) -> int:
+        sum = 0
+        while n:
+            n ,r = divmod(n,10)
+            sum += r**2
+        return sum

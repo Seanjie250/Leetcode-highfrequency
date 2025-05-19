@@ -1,7 +1,22 @@
-# Last updated: 5/19/2025, 10:25:29 AM
+# Last updated: 5/19/2025, 10:33:30 AM
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
 class Solution:
-    def reverseWords(self, s: str) -> str:
-        word = s.split()
-        reverser_word = word[::-1]
-        return " ".join(reverser_word)
+    def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        pre = None 
+        cur = head
+        while cur:
+            tmp = cur.next
+            cur.next = pre
+            pre = cur
+            cur = tmp
+        return pre
+         
+
+
+
+
         

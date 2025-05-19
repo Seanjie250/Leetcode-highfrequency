@@ -1,22 +1,27 @@
-# Last updated: 5/19/2025, 10:33:30 AM
+# Last updated: 5/19/2025, 10:40:41 AM
 # Definition for singly-linked list.
 # class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
 class Solution:
-    def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        pre = None 
-        cur = head
-        while cur:
-            tmp = cur.next
-            cur.next = pre
-            pre = cur
-            cur = tmp
-        return pre
-         
-
-
+    def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        if not head or not head.next:
+            return None
+        fast,slow = head,head
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+            if slow == fast:
+                slow = head
+                while slow != fast:
+                    slow = slow.next
+                    fast = fast.next
+                return slow
+        return None
+                
+        
 
 
         

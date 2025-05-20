@@ -1,4 +1,4 @@
-# Last updated: 5/20/2025, 3:57:30 PM
+# Last updated: 5/20/2025, 3:57:46 PM
 from collections import deque
 def update_the_q(kept_self,nums):
         while kept_self and kept_self[-1] < nums:

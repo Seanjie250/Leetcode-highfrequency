@@ -1,4 +1,4 @@
-# Last updated: 5/22/2025, 10:19:12 AM
+# Last updated: 5/22/2025, 12:36:03 PM
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -6,19 +6,29 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def isBalanced(self, root: Optional[TreeNode]) -> bool:
+    def traversal(self,node,path,rst) -> List[str]:
+        path.append(node.val)
+        if not node.right and not node.left:
+            st_path = '->'.join(map(str,path))
+            rst.append(st_path)
+            return
+        if node.left:
+            self.traversal(node.left,path,rst)
+            path.pop()
+        if node.right:
+            self.traversal(node.right,path,rst)
+            path.pop()
+        return rst
+    def binaryTreePaths(self, root: Optional[TreeNode]) -> List[str]:
+        if not root:
+            return []
+        elif not root.right and not root.left:
+            rst = []
+            rst.append(str(root.val))
+            return rst
+        rst = self.traversal(root,[],[])
+        return rst
 
-        def getheight(Node) -> int:
-            if not Node:
-                return 0
-            if (left_height := getheight(Node.left)) == -1:
-                return -1
-            if (right_height := getheight(Node.right)) == -1:
-                return -1
-            if abs(left_height - right_height) > 1:
-                return -1
-            else:
-                return 1 + max(left_height,right_height)
 
-        return True if getheight(root) != -1 else False
-            
+
+        

@@ -1,27 +1,21 @@
-# Last updated: 5/25/2025, 12:17:42 PM
+# Last updated: 5/26/2025, 10:45:40 AM
 # Definition for a binary tree node.
 # class TreeNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.left = None
-#         self.right = None
-
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
 class Solution:
-    def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        def traversal(Node,p,q):
-            if not Node:
-                return None
-            if Node.val > p.val and Node.val > q.val:
-                left = traversal(Node.left,p,q)
-                if left is not None:
-                    return left
-            if Node.val < p.val and Node.val < q.val:
-                right = traversal(Node.right,p,q)
-                if right is not None:
-                    return right
-            else:
-                return Node
-        return traversal(root,p,q)
-                
-            
+    def insertIntoBST(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
+        if not root:
+            Node = TreeNode(val)
+            return Node
+
+        if val > root.val:
+            root.right = self.insertIntoBST(root.right,val)
+        if val < root.val:
+            root.left = self.insertIntoBST(root.left,val)
+        return root
+
+
         

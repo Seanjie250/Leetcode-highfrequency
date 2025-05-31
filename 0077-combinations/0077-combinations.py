@@ -3,7 +3,7 @@ class Solution:
         if len(path) == k:
             rst.append(path[:])
             return 
-        for i in range(startIndex,n+1):
+        for i in range(startIndex,n - (k - len(path)) + 2):
             path.append(i)
             self.backtracking(n,k,i + 1,path,rst)
             path.pop()

@@ -21,11 +21,13 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0039-combination-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0216-combination-sum-iii) |
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0039-combination-sum) |
 | [0216-combination-sum-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0216-combination-sum-iii) |
 ## Hash Table
 |  |

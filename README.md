@@ -8,6 +8,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0332-reconstruct-itinerary) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0538-convert-bst-to-greater-tree) |
 ## Binary Search Tree
 |  |
@@ -68,4 +69,12 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0047-permutations-ii) |
+## Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->

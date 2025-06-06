@@ -29,6 +29,7 @@
 | [0093-restore-ip-addresses](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0216-combination-sum-iii) |
+| [0491-non-decreasing-subsequences](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0491-non-decreasing-subsequences) |
 ## Array
 |  |
 | ------- |
@@ -37,10 +38,12 @@
 | [0078-subsets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0216-combination-sum-iii) |
+| [0491-non-decreasing-subsequences](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0491-non-decreasing-subsequences) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0491-non-decreasing-subsequences](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0491-non-decreasing-subsequences) |
 ## String
 |  |
 | ------- |
@@ -56,4 +59,5 @@
 | ------- |
 | [0078-subsets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0090-subsets-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0491-non-decreasing-subsequences) |
 <!---LeetCode Topics End-->

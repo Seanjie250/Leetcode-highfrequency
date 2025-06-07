@@ -47,6 +47,7 @@
 | [0078-subsets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0216-combination-sum-iii) |
+| [0455-assign-cookies](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0455-assign-cookies) |
 | [0491-non-decreasing-subsequences](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0491-non-decreasing-subsequences) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0047-permutations-ii) |
+| [0455-assign-cookies](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0455-assign-cookies) |
 ## Graph
 |  |
 | ------- |
@@ -86,4 +88,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0037-sudoku-solver) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->

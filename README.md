@@ -54,6 +54,7 @@
 | [0376-wiggle-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0455-assign-cookies) |
 | [0491-non-decreasing-subsequences](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0491-non-decreasing-subsequences) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0047-permutations-ii) |
 | [0455-assign-cookies](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0455-assign-cookies) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Graph
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0455-assign-cookies) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Divide and Conquer
 |  |
 | ------- |

@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0538-convert-bst-to-greater-tree) |
+| [1008-binary-tree-cameras](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1008-binary-tree-cameras) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0332-reconstruct-itinerary) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0538-convert-bst-to-greater-tree) |
+| [1008-binary-tree-cameras](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1008-binary-tree-cameras) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -18,6 +20,7 @@
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0538-convert-bst-to-greater-tree) |
+| [1008-binary-tree-cameras](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1008-binary-tree-cameras) |
 ## Backtracking
 |  |
 | ------- |
@@ -86,6 +89,7 @@
 | [0131-palindrome-partitioning](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0131-palindrome-partitioning) |
 | [0376-wiggle-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0435-non-overlapping-intervals) |
+| [1008-binary-tree-cameras](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1008-binary-tree-cameras) |
 ## Bit Manipulation
 |  |
 | ------- |

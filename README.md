@@ -131,6 +131,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0455-assign-cookies) |
+| [0738-monotone-increasing-digits](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0738-monotone-increasing-digits) |
 | [0768-partition-labels](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -146,4 +147,8 @@
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0406-queue-reconstruction-by-height) |
+## Math
+|  |
+| ------- |
+| [0738-monotone-increasing-digits](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0738-monotone-increasing-digits) |
 <!---LeetCode Topics End-->

@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0096-unique-binary-search-trees) |
+| [0300-longest-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0300-longest-increasing-subsequence) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0538-convert-bst-to-greater-tree) |
 ## Binary Tree
 |  |
@@ -70,6 +71,7 @@
 | [0198-house-robber](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0216-combination-sum-iii) |
+| [0300-longest-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0322-coin-change) |
 | [0376-wiggle-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0376-wiggle-subsequence) |
@@ -123,6 +125,7 @@
 | [0198-house-robber](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0337-house-robber-iii) |

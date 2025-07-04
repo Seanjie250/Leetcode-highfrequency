@@ -83,6 +83,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0518-coin-change-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0747-min-cost-climbing-stairs) |
 | [0890-lemonade-change](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -133,6 +134,7 @@
 | [0474-ones-and-zeroes](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0518-coin-change-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0747-min-cost-climbing-stairs) |
 | [1008-binary-tree-cameras](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1008-binary-tree-cameras) |
 | [1013-fibonacci-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1013-fibonacci-number) |
@@ -183,6 +185,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0455-assign-cookies) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0738-monotone-increasing-digits](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0738-monotone-increasing-digits) |
 | [0768-partition-labels](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0890-lemonade-change) |

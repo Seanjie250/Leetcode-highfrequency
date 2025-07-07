@@ -85,6 +85,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0518-coin-change-ii) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0747-min-cost-climbing-stairs) |
 | [0890-lemonade-change](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0890-lemonade-change) |

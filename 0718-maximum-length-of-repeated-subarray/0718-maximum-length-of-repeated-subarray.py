@@ -6,7 +6,8 @@ class Solution:
             for j in range(1,len(nums2) + 1):
                 if nums1[i - 1] == nums2[j - 1]:
                     dp[i][j] = dp[i - 1][j - 1] + 1
-                rst = max(rst,dp[i][j])
+                if dp[i][j] > rst:
+                    rst = dp[i][j]
         return rst
 
 

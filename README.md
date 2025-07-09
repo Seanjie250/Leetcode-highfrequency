@@ -106,6 +106,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0072-edit-distance](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0131-palindrome-partitioning) |
@@ -124,6 +125,7 @@
 | [0062-unique-paths](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0121-best-time-to-buy-and-sell-stock) |

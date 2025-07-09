@@ -112,6 +112,7 @@
 | [0139-word-break](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0474-ones-and-zeroes) |
+| [0583-delete-operation-for-two-strings](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0583-delete-operation-for-two-strings) |
 | [0768-partition-labels](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0768-partition-labels) |
 | [1250-longest-common-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
@@ -146,6 +147,7 @@
 | [0474-ones-and-zeroes](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0747-min-cost-climbing-stairs) |

@@ -85,6 +85,7 @@
 | [0474-ones-and-zeroes](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0474-ones-and-zeroes) |
 | [0491-non-decreasing-subsequences](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0518-coin-change-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -102,6 +103,7 @@
 | [0037-sudoku-solver](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0139-word-break) |
 | [0491-non-decreasing-subsequences](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0768-partition-labels) |
 ## String
 |  |
@@ -271,9 +273,11 @@
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

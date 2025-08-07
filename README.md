@@ -15,6 +15,7 @@
 | [0332-reconstruct-itinerary](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0337-house-robber-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0538-convert-bst-to-greater-tree) |
+| [0695-max-area-of-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0695-max-area-of-island) |
 | [1008-binary-tree-cameras](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1008-binary-tree-cameras) |
 ## Binary Search Tree
 |  |
@@ -92,6 +93,7 @@
 | [0503-next-greater-element-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0518-coin-change-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0695-max-area-of-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0739-daily-temperatures) |
@@ -196,6 +198,7 @@
 | [0037-sudoku-solver](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0695-max-area-of-island) |
 ## Two Pointers
 |  |
 | ------- |
@@ -262,6 +265,7 @@
 | [0200-number-of-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0695-max-area-of-island) |
 ## Trie
 |  |
 | ------- |
@@ -296,4 +300,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->

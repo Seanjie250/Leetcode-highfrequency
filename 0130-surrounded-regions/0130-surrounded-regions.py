@@ -1,15 +1,20 @@
+from collections import deque
 class Solution:
-    def dfs(self,board,x,y):
+    def bfs(self,board,x,y):
+        directions = [(1,0),(-1,0),(0,1),(0,-1)]
         board[x][y] = "W"
-        direction = [[0,1] , [0,-1], [1,0] , [-1,0]]
-        for di in direction:
-            next_x = x + di[0]
-            next_y = y + di[1]
-            if next_x < 0 or next_x >= len(board) or next_y < 0 or next_y >= len(board[0]):
-                continue
-            if board[next_x][next_y] != "O" :
-                continue
-            self.dfs(board,next_x,next_y)
+        q = deque()
+        q.append((x,y))
+        while q:
+            r,c = q.popleft()
+            for x , y in directions:
+                next_x = r + x
+                next_y = c + y
+                if next_x >= len(board) or next_x < 0 or next_y >= len(board[0]) or next_y < 0:
+                    continue
+                if board[next_x][next_y] == "O":
+                    q.append((next_x,next_y))
+                    board[next_x][next_y] = "W"
     def solve(self, board: List[List[str]]) -> None:
         """
         Do not return anything, modify board in-place instead.
@@ -18,21 +23,20 @@ class Solution:
         # check left and right side
         for i in range(m):
             if board[i][0] == "O":
-                self.dfs(board,i,0)
+                self.bfs(board,i,0)
             if board[i][n - 1] == "O":
-                self.dfs(board,i,n - 1)
+                self.bfs(board,i,n - 1)
         #check top and bottom side
         for i in range(n):
             if board[0][i] == "O":
-                self.dfs(board,0,i)
+                self.bfs(board,0,i)
             if board[m - 1][i] == "O":
-                self.dfs(board,m - 1,i)
+                self.bfs(board,m - 1,i)
         
         for i in range(m):
             for j in range(n):
                 if board[i][j] == "O":
                     board[i][j] = "X"
-
                 if board[i][j] == "W":
                     board[i][j] = "O"
 

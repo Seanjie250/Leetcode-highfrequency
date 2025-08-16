@@ -11,7 +11,7 @@ class Solution:
     def islandPerimeter(self, grid: List[List[int]]) -> int:
         r , c = len(grid),len(grid[0])
         visited = [[False] * c for _ in range(r)]
-        rst = 0
+        perimeter = 0
         for i in range(r):
             for j in range(c):
                 if grid[i][j] == 1:
@@ -19,19 +19,13 @@ class Solution:
                     self.dfs(grid,i,j,visited)
         for i in range(r):
             for j in range(c):
-                if visited[i][j] == True:
-                    count = 4
-                    if  i - 1 >= 0 and visited[i - 1][j]:
-                        count -= 1
-                    if j - 1 >= 0 and visited[i][j - 1]:
-                        count -= 1
-                    if i + 1 < len(grid) and visited[i + 1][j] :
-                        count -= 1
-                    if j + 1 < len(grid[0]) and visited[i][j + 1]:
-                        count -= 1
-                    rst += count
-                    
-        return rst
+                if grid[i][j] == 1:
+                    perimeter += 4
+                    if i > 0 and grid[i-1][j] == 1:
+                        perimeter -= 2
+                    if j > 0 and grid[i][j-1] == 1:
+                        perimeter -= 2
+        return perimeter
 
 
 

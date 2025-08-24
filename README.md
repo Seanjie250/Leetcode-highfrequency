@@ -21,6 +21,7 @@
 | [0695-max-area-of-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0854-making-a-large-island) |
 | [1008-binary-tree-cameras](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1008-binary-tree-cameras) |
+| [2793-count-the-number-of-complete-components](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -198,6 +199,7 @@
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0332-reconstruct-itinerary) |
+| [2793-count-the-number-of-complete-components](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2793-count-the-number-of-complete-components) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -285,6 +287,7 @@
 | [0463-island-perimeter](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0854-making-a-large-island) |
+| [2793-count-the-number-of-complete-components](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2793-count-the-number-of-complete-components) |
 ## Trie
 |  |
 | ------- |
@@ -322,4 +325,5 @@
 | [0200-number-of-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0854-making-a-large-island) |
+| [2793-count-the-number-of-complete-components](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->

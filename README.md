@@ -58,6 +58,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0040-combination-sum-ii) |
@@ -220,6 +221,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0455-assign-cookies) |

@@ -71,6 +71,7 @@
 | [0053-maximum-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0090-subsets-ii) |
@@ -215,6 +216,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0200-number-of-islands) |
@@ -340,4 +342,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0209-minimum-size-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->

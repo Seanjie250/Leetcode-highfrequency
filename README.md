@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0096-unique-binary-search-trees) |
+| [0209-minimum-size-subarray-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0300-longest-increasing-subsequence) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0538-convert-bst-to-greater-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -82,6 +83,7 @@
 | [0139-word-break](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0216-combination-sum-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0300-longest-increasing-subsequence) |
@@ -302,6 +304,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0209-minimum-size-subarray-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Rolling Hash
 |  |
@@ -333,4 +336,8 @@
 | [0695-max-area-of-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0854-making-a-large-island) |
 | [2793-count-the-number-of-complete-components](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2793-count-the-number-of-complete-components) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

@@ -275,6 +275,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0203-remove-linked-list-elements) |
 | [1013-fibonacci-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -346,4 +347,8 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0059-spiral-matrix-ii) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->

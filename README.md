@@ -28,6 +28,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0096-unique-binary-search-trees) |
 | [0209-minimum-size-subarray-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0349-intersection-of-two-arrays) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0538-convert-bst-to-greater-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0792-binary-search) |
@@ -90,6 +91,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0349-intersection-of-two-arrays) |
 | [0376-wiggle-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0377-combination-sum-iv) |
 | [0406-queue-reconstruction-by-height](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0406-queue-reconstruction-by-height) |
@@ -128,6 +130,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0349-intersection-of-two-arrays) |
 | [0491-non-decreasing-subsequences](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0768-partition-labels) |
@@ -204,6 +207,7 @@
 | [0047-permutations-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -239,6 +243,7 @@
 | [0027-remove-element](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0142-linked-list-cycle-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0768-partition-labels) |

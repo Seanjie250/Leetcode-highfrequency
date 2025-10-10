@@ -124,6 +124,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0127-word-ladder) |
@@ -141,6 +142,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0093-restore-ip-addresses) |
@@ -330,6 +332,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0209-minimum-size-subarray-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Rolling Hash

@@ -1,11 +1,10 @@
 class Node:
-    def __init__(self,key:int,val:int):
-        self.key = key
+    def __init__(self,val:int,key:int):
         self.val = val
-        self.prev = None
+        self.key = key
         self.next = None
+        self.prev = None
 class LRUCache:
-
     def __init__(self, capacity: int):
         self.capacity = capacity
         self.cache = {}
@@ -14,12 +13,12 @@ class LRUCache:
         self.head.next = self.tail
         self.tail.prev = self.head
 
-    def add_to_head(self, node):
+    def add_to_head(self,node):
         node.next = self.head.next
         node.prev = self.head
         self.head.next.prev = node
         self.head.next = node
-    
+
     def remove_node(self,node):
         next_node = node.next
         prev_node = node.prev
@@ -33,25 +32,21 @@ class LRUCache:
         self.remove_node(node)
         self.add_to_head(node)
         return node.val
-
-        
-
     def put(self, key: int, value: int) -> None:
         if key in self.cache:
             node = self.cache[key]
             node.val = value
-
             self.remove_node(node)
             self.add_to_head(node)
-        
         else:
-            node = Node(key,value)
+            node = Node(value,key)
             self.cache[key] = node
             self.add_to_head(node)
             if len(self.cache) > self.capacity:
                 lru = self.tail.prev
                 self.remove_node(lru)
                 del self.cache[lru.key]
+            
         
 
 

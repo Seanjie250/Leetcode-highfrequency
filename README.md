@@ -13,6 +13,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0207-course-schedule) |
 | [0332-reconstruct-itinerary](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0417-pacific-atlantic-water-flow) |
@@ -223,6 +224,7 @@
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0207-course-schedule) |
 | [0332-reconstruct-itinerary](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0332-reconstruct-itinerary) |
 | [2793-count-the-number-of-complete-components](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2793-count-the-number-of-complete-components) |
 ## Eulerian Circuit
@@ -318,6 +320,7 @@
 | [0127-word-ladder](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0417-pacific-atlantic-water-flow) |
@@ -398,4 +401,8 @@
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0778-reorganize-string) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->

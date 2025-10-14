@@ -1,6 +1,6 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        count = {}
+        count = dict()
         n = len(nums)
         k = 0
         for num in nums:

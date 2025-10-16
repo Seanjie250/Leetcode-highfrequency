@@ -12,9 +12,10 @@ class Solution:
                 while stack and height[i] > height[stack[-1]]:
                     mid = stack.pop()
                     if stack:
-                        h = min(height[stack[-1]] , height[i]) - height[mid]
+
+                        h = min(height[i],height[stack[-1]]) - height[mid]
                         w = i - stack[-1] - 1
-                        rst += h * w
+                        rst += h*w
                 stack.append(i)
         return rst
 

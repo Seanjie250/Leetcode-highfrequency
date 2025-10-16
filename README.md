@@ -155,6 +155,7 @@
 | [0012-integer-to-roman](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0058-length-of-last-word](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0115-distinct-subsequences) |

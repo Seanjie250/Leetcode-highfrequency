@@ -165,6 +165,7 @@
 | [0072-edit-distance](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0139-word-break) |
@@ -270,6 +271,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0189-rotate-array) |

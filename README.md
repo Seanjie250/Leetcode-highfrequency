@@ -64,6 +64,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0039-combination-sum) |
@@ -232,6 +233,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0242-valid-anagram) |
@@ -270,6 +272,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |

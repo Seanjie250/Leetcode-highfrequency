@@ -66,6 +66,7 @@
 | [0014-longest-common-prefix](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0040-combination-sum-ii) |
@@ -141,6 +142,7 @@
 | [0013-roman-to-integer](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0127-word-ladder) |
@@ -263,6 +265,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0063-unique-paths-ii) |

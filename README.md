@@ -142,6 +142,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0142-linked-list-cycle-ii) |
@@ -169,6 +170,7 @@
 | [0058-length-of-last-word](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0125-valid-palindrome) |
@@ -378,6 +380,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0209-minimum-size-subarray-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Rolling Hash

@@ -83,6 +83,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0090-subsets-ii) |
@@ -146,6 +147,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0139-word-break) |
@@ -273,6 +275,7 @@
 | [0054-spiral-matrix](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0417-pacific-atlantic-water-flow) |

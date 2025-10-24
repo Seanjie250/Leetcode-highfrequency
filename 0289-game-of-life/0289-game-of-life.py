@@ -7,13 +7,10 @@ class Solution:
         ]
         rows, cols = len(board), len(board[0])
         
-        live_count = 0
         for dx, dy in directions:
             nx, ny = x + dx, y + dy
             if 0 <= nx < rows and 0 <= ny < cols and board[nx][ny] == 1:
-                live_count += 1
-
-        cont_live[(x, y)] = live_count
+                cont_live[(x,y)] = cont_live.get((x,y) , 0) + 1
 
     def gameOfLife(self, board: List[List[int]]) -> None:
         row = len(board)

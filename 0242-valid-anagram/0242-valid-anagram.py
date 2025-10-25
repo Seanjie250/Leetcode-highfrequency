@@ -1,14 +1,15 @@
+from collections import Counter
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        record = [0] * 26
-        for char in s:
-            record[ord(char) - ord('a')] += 1
-        for char in t:
-            record[ord(char) - ord('a')] -= 1
-        for value in record:
-            while value != 0:
+        if len(s) != len(t):
+            return False
+        counter_s = Counter(s)
+        counter_t = Counter(t)
+        for key ,val in counter_s.items():
+            if counter_t[key] != val:
                 return False
-        return True
+        return True 
+
             
 
 

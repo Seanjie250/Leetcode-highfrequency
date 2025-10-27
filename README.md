@@ -105,6 +105,7 @@
 | [0213-house-robber-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0289-game-of-life) |

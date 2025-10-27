@@ -92,6 +92,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0135-candy) |
@@ -156,6 +157,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0146-lru-cache) |
@@ -436,6 +438,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0695-max-area-of-island) |

@@ -9,7 +9,5 @@ class Solution:
                 prev[1] = max(interval[1],prev[1])
             else:
                 rst.append(interval)
-
         return rst
-
         

@@ -190,6 +190,7 @@
 | [0049-group-anagrams](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0093-restore-ip-addresses) |
@@ -427,6 +428,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0071-simplify-path) |
 | [0496-next-greater-element-i](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0739-daily-temperatures) |

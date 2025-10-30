@@ -429,6 +429,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0739-daily-temperatures) |
@@ -473,6 +474,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0380-insert-delete-getrandom-o1) |
 ## Doubly-Linked List
 |  |

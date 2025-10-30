@@ -98,6 +98,7 @@
 | [0134-gas-station](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0198-house-robber) |
@@ -364,6 +365,7 @@
 | [0062-unique-paths](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0279-perfect-squares) |
@@ -429,6 +431,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0503-next-greater-element-ii) |

@@ -162,6 +162,7 @@
 | [0127-word-ladder](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0202-happy-number) |
@@ -317,6 +318,7 @@
 | [0042-trapping-rain-water](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -475,6 +477,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0024-swap-nodes-in-pairs) |
+| [0141-linked-list-cycle](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0203-remove-linked-list-elements) |

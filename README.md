@@ -363,6 +363,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0048-rotate-image) |
@@ -381,6 +382,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0206-reverse-linked-list) |
@@ -475,6 +477,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0141-linked-list-cycle) |

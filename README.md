@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0096-unique-binary-search-trees) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0337-house-robber-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0538-convert-bst-to-greater-tree) |
@@ -12,6 +13,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0200-number-of-islands) |
@@ -40,6 +42,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0096-unique-binary-search-trees) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0337-house-robber-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0538-convert-bst-to-greater-tree) |
@@ -410,6 +413,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0130-surrounded-regions) |

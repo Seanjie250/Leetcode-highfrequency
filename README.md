@@ -18,6 +18,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0337-house-robber-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0538-convert-bst-to-greater-tree) |
 | [1008-binary-tree-cameras](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1008-binary-tree-cameras) |
@@ -36,6 +37,7 @@
 | [0200-number-of-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0417-pacific-atlantic-water-flow) |
@@ -75,6 +77,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0337-house-robber-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0538-convert-bst-to-greater-tree) |
 | [1008-binary-tree-cameras](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1008-binary-tree-cameras) |

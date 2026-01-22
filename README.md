@@ -28,6 +28,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -103,6 +104,7 @@
 | [0052-n-queens-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0131-palindrome-partitioning) |
@@ -138,6 +140,7 @@
 | [0068-text-justification](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -252,6 +255,7 @@
 | [0071-simplify-path](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0125-valid-palindrome) |
@@ -359,6 +363,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0289-game-of-life) |

@@ -4,6 +4,7 @@ class Solution:
         count = 0
         for i in range(len(nums)):
             count += nums[i]
+
             if count > rst:
                 rst = count
             if count < 0:

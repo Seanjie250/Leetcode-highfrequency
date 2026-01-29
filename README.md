@@ -341,6 +341,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0222-count-complete-tree-nodes) |
 | [0491-non-decreasing-subsequences](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0491-non-decreasing-subsequences) |
 ## Sorting
@@ -447,6 +448,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Indexed Tree

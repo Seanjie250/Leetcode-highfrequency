@@ -251,6 +251,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0383-ransom-note) |
+| [0433-minimum-genetic-mutation](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0433-minimum-genetic-mutation) |
 | [0454-4sum-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0454-4sum-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0496-next-greater-element-i) |
@@ -289,6 +290,7 @@
 | [0290-word-pattern](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0392-is-subsequence) |
+| [0433-minimum-genetic-mutation](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0433-minimum-genetic-mutation) |
 | [0474-ones-and-zeroes](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0583-delete-operation-for-two-strings) |
 | [0768-partition-labels](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0768-partition-labels) |
@@ -532,6 +534,7 @@
 | [0279-perfect-squares](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0417-pacific-atlantic-water-flow) |
+| [0433-minimum-genetic-mutation](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0463-island-perimeter) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0695-max-area-of-island) |

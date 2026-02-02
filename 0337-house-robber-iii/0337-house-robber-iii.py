@@ -5,19 +5,15 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def traversal(self,node):
+    def traversal(self, node):
         if not node:
-            return (0,0)
+            return (0 , 0)
         left = self.traversal(node.left)
         right = self.traversal(node.right)
-
-        val_0 = max(left[0],left[1]) + max(right[0],right[1])
-
+        val_0 = max(left[1] , left[0]) + max(right[1] , right[0])
         val_1 = node.val + left[0] + right[0]
+        return (val_0 , val_1)
 
-        return (val_0,val_1)        
     def rob(self, root: Optional[TreeNode]) -> int:
         dp = self.traversal(root)
         return max(dp)
-
-        

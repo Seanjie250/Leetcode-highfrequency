@@ -223,6 +223,7 @@
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1105-uncrossed-lines](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1105-uncrossed-lines) |
 | [1130-last-stone-weight-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1130-last-stone-weight-ii) |
+| [2293-min-max-game](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2293-min-max-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -611,6 +612,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0289-game-of-life) |
+| [2293-min-max-game](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2293-min-max-game) |
 ## Linked List
 |  |
 | ------- |

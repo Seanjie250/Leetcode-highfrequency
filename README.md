@@ -75,6 +75,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0538-convert-bst-to-greater-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0792-binary-search) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1027-longest-arithmetic-subsequence) |
 ## Binary Tree
 |  |
 | ------- |
@@ -221,6 +222,7 @@
 | [0909-snakes-and-ladders](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0918-maximum-sum-circular-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1019-squares-of-a-sorted-array) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1027-longest-arithmetic-subsequence) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1105-uncrossed-lines](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1105-uncrossed-lines) |
 | [1130-last-stone-weight-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1130-last-stone-weight-ii) |
@@ -263,6 +265,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0778-reorganize-string) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1027-longest-arithmetic-subsequence) |
 ## String
 |  |
 | ------- |
@@ -348,6 +351,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0918-maximum-sum-circular-subarray) |
 | [1008-binary-tree-cameras](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1008-binary-tree-cameras) |
 | [1013-fibonacci-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1013-fibonacci-number) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1027-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1105-uncrossed-lines) |
 | [1130-last-stone-weight-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1130-last-stone-weight-ii) |
 | [1250-longest-common-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1250-longest-common-subsequence) |

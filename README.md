@@ -208,6 +208,7 @@
 | [0502-ipo](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0518-coin-change-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0594-longest-harmonious-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -259,6 +260,7 @@
 | [0454-4sum-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0454-4sum-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0778-reorganize-string) |
 ## String
@@ -378,6 +380,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0502-ipo) |
+| [0594-longest-harmonious-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0778-reorganize-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -563,6 +566,7 @@
 | [0076-minimum-window-substring](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0594-longest-harmonious-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Rolling Hash
 |  |
@@ -660,6 +664,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0778-reorganize-string) |
 ## Topological Sort
 |  |

@@ -210,6 +210,7 @@
 | [0503-next-greater-element-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0594-longest-harmonious-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -345,6 +346,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0583-delete-operation-for-two-strings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0747-min-cost-climbing-stairs) |
@@ -480,10 +482,12 @@
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0406-queue-reconstruction-by-height) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0406-queue-reconstruction-by-height) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Math
 |  |
 | ------- |

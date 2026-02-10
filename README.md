@@ -291,6 +291,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0072-edit-distance) |
@@ -377,6 +378,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0137-single-number-ii) |
@@ -519,6 +521,7 @@
 | [0050-powx-n](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0096-unique-binary-search-trees) |
@@ -645,6 +648,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0289-game-of-life) |
 | [2293-min-max-game](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2293-min-max-game) |

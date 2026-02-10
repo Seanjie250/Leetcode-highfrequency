@@ -171,6 +171,7 @@
 | [0135-candy](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0162-find-peak-element) |
@@ -256,6 +257,7 @@
 | [0141-linked-list-cycle](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0219-contains-duplicate-ii) |
@@ -520,6 +522,7 @@
 | [0069-sqrtx](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0189-rotate-array) |
@@ -749,4 +752,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0399-evaluate-division) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->

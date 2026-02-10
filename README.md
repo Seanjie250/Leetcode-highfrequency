@@ -233,6 +233,7 @@
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1105-uncrossed-lines](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1105-uncrossed-lines) |
 | [1130-last-stone-weight-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1130-last-stone-weight-ii) |
+| [1534-count-good-triplets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1534-count-good-triplets) |
 | [2293-min-max-game](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2293-min-max-game) |
 ## Hash Table
 |  |
@@ -760,4 +761,8 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0149-max-points-on-a-line) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->

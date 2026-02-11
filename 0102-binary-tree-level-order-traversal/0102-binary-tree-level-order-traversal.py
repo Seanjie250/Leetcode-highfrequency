@@ -4,7 +4,6 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-import collections
 class Solution:    
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         if not root:
@@ -12,15 +11,19 @@ class Solution:
         levels = []
         def traversal(node,level):
             if not node:
-                return None
+                return 
             if len(levels) == level:
                 levels.append([])
             levels[level].append(node.val)
-            traversal(node.left,level + 1)
-            traversal(node.right,level + 1)
+            traversal(node.left , level + 1)
+            traversal(node.right , level + 1)
             return levels
-        ans = traversal(root,0)
+        ans = traversal(root, 0)
         return ans
+            
+
+            
+
 
 
         

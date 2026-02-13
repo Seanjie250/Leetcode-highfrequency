@@ -5,30 +5,21 @@
 #         self.left = None
 #         self.right = None
 
-class Solution:
-    def findcommonancestor(self , node , p , q):
-        if not node:
-            return 
-        if node == q or node == p:
-            return node
-        left = self.findcommonancestor(node.left , p , q)
-        right =self.findcommonancestor(node.right , p , q)
-        if left and right:
-            return node
-        elif not left:
-            return right
-        elif not right:
-            return left
-        
+class Solution:        
     def lowestCommonAncestor(self, root: 'TreeNode', nodes: 'List[TreeNode]') -> 'TreeNode':
-        if len(nodes) == 1:
-            return nodes[0]
-        que = deque(node for node in nodes)
-        while len(que) >= 2:
-            p = que.popleft()
-            q = que.popleft()
-            que.append(self.findcommonancestor(root , p , q))
-        return que.popleft()
+        seen = set(nodes)
+        if not root or root in seen:
+            return root
+        
+        leftlca = self.lowestCommonAncestor(root.left , nodes)
+        rightlca = self.lowestCommonAncestor(root.right , nodes)
+
+        if leftlca and rightlca:
+            return root
+        elif not leftlca:
+            return rightlca
+        elif not rightlca:
+            return leftlca
 
 
             

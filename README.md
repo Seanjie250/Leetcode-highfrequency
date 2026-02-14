@@ -245,6 +245,7 @@
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1105-uncrossed-lines](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1105-uncrossed-lines) |
 | [1130-last-stone-weight-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1130-last-stone-weight-ii) |
+| [1152-analyze-user-website-visit-pattern](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1534-count-good-triplets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1534-count-good-triplets) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2293-min-max-game](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2293-min-max-game) |
@@ -289,6 +290,7 @@
 | [0778-reorganize-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0778-reorganize-string) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1027-longest-arithmetic-subsequence) |
+| [1152-analyze-user-website-visit-pattern](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 ## String
@@ -334,6 +336,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0583-delete-operation-for-two-strings) |
 | [0768-partition-labels](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0778-reorganize-string) |
+| [1152-analyze-user-website-visit-pattern](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1250-longest-common-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -425,6 +428,7 @@
 | [0778-reorganize-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0778-reorganize-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1152-analyze-user-website-visit-pattern](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1152-analyze-user-website-visit-pattern) |
 ## Graph
 |  |
 | ------- |

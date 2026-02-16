@@ -493,6 +493,7 @@
 | [0392-is-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0768-partition-labels) |
+| [0876-middle-of-the-linked-list](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0876-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1019-squares-of-a-sorted-array) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Greedy
@@ -704,6 +705,7 @@
 | [0148-sort-list](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |

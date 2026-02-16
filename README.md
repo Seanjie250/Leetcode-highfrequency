@@ -169,6 +169,7 @@
 | [0078-subsets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -414,6 +415,7 @@
 | [0047-permutations-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0242-valid-anagram) |
@@ -477,6 +479,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0142-linked-list-cycle-ii) |

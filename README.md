@@ -285,6 +285,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0454-4sum-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0496-next-greater-element-i) |
@@ -334,6 +335,7 @@
 | [0392-is-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0583-delete-operation-for-two-strings) |
@@ -632,6 +634,7 @@
 | [0076-minimum-window-substring](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0594-longest-harmonious-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Rolling Hash

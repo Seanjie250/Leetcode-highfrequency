@@ -1,20 +1,23 @@
 class Solution:
-    def backtracking(self,nums,path,rst,used,startindex):
+    def backtracking(self , rst , path , visited , nums):
         if len(path) == len(nums):
-            rst.append(path[:])
+            print(path)
+            rst.append(list(path))
             return 
         for i in range(len(nums)):
-            if used[i]:
+            if visited[i] == True:
                 continue
             path.append(nums[i])
-            used[i] = True
-            self.backtracking(nums,path,rst,used,0)
+            visited[i] = True
+            self.backtracking(rst , path ,visited , nums)
             path.pop()
-            used[i] = False
-
+            visited[i] = False
+        
     def permute(self, nums: List[int]) -> List[List[int]]:
         rst = []
         path = []
-        self.backtracking(nums,path,rst,[False]*len(nums),0)
+        visited = [False] * len(nums) 
+        self.backtracking(rst , path , visited, nums)
         return rst
+
         

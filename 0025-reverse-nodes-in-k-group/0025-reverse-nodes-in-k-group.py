@@ -4,28 +4,34 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def checkifk(self,node,k):
-        for _ in range(k):
-            if not node:
-                return False
-            node = node.next
-        return True
-
-
     def reverseKGroup(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
-        dummy = ListNode(0)
-        dummy.next = head
+        dummy = ListNode(0 , head)
         prev = dummy
-        if not head:
-            return None
-        while self.checkifk(prev.next , k):
+        cur = head
+        length = 0
+        while cur:
+            cur = cur.next
+            length += 1
+        if length < k:
+            return head
+        times = length // k
+        for _ in range(times):
             cur = prev.next
-            nxt = cur.next
             for _ in range(k - 1):
+                nxt = cur.next
                 cur.next = nxt.next
                 nxt.next = prev.next
                 prev.next = nxt
-                nxt = cur.next
             prev = cur
         return dummy.next
+                
+            
+                
+
+
+            
+
+        
+
+        
         

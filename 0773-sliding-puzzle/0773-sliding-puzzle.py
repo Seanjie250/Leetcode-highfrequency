@@ -33,14 +33,14 @@ class Solution:
         while q:
             for i in range(len(q)):
                 cur = q.popleft()
-                print(cur)
+    
                 if cur == ans:
                     return step
                 for neighbour in self.neighbours(cur):
                     if neighbour not in visited:
                         q.append(neighbour)
                         visited.add(neighbour)
-                print(visited)
+                
             
             step +=1
         return -1

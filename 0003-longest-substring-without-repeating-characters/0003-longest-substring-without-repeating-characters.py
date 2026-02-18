@@ -1,22 +1,20 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        if not s:
-            return 0
-        seen = set()
-        left = 0
-        ans = float('-inf')
-        for right in range(len(s)):
-            while s[right] in seen:
-                seen.remove(s[left])
+        left , right = 0 , 0
+        max_length = 0
+        n = len(s)
+        count = defaultdict(int)
+        while right <  n:
+            if count[s[right]] == 0:
+                count[s[right]] += 1
+                max_length = max(max_length , right - left + 1)
+                right += 1
+            else:
+                count[s[left]] -= 1
                 left += 1
-            seen.add(s[right])
-            ans = max(ans , right - left + 1)
-        return ans
-            
-                
+        return max_length
 
+        
 
-
-            
 
         

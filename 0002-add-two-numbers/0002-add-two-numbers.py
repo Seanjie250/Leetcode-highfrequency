@@ -19,10 +19,10 @@ class Solution:
                 p2 = p2.next
             carry = val // 10
             val = val % 10
-            print(val)
+
             p.next = ListNode(val)
             p = p.next
            
-            print(carry)
+     
         return dummy.next
         

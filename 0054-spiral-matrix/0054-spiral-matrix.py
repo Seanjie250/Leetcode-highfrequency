@@ -1,45 +1,27 @@
-from typing import List
-
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
-        count = 0
-        total_amount = len(matrix) * len(matrix[0])
-        offset = 0
+        m , n = len(matrix) , len(matrix[0])
+        up_bound , bottom_bound = 0 , m - 1
+        left_bound  , right_bound = 0 , n - 1
         rst = []
-
-        while count < total_amount:
-            # top row
-            for i in range(offset, len(matrix[0]) - offset):
-                rst.append(matrix[offset][i])
-                count += 1
-                if count == total_amount:
-                    return rst
-
-            # right column
-            for i in range(offset + 1, len(matrix) - offset):
-                rst.append(matrix[i][len(matrix[0]) - offset - 1])
-                count += 1
-                if count == total_amount:
-                    return rst
-
-            # bottom row
-            for i in range(len(matrix[0]) - offset - 2, offset - 1, -1):
-                if len(matrix) - offset - 1 != offset:  # avoid double-counting
-                    rst.append(matrix[len(matrix) - offset - 1][i])
-                    count += 1
-                    if count == total_amount:
-                        return rst
-
-            # left column
-            for i in range(len(matrix) - offset - 2, offset, -1):
-                if len(matrix[0]) - offset - 1 != offset:  # avoid double-counting
-                    rst.append(matrix[i][offset])
-                    count += 1
-                    if count == total_amount:
-                        return rst
-
-            offset += 1
-
+        while len(rst) < m * n:
+            if up_bound <= bottom_bound:
+                for i in range(left_bound , right_bound + 1):
+                    rst.append(matrix[up_bound][i])
+                up_bound += 1
+            if right_bound >= left_bound:
+                for i in range(up_bound , bottom_bound + 1):
+                    rst.append(matrix[i][right_bound])
+                right_bound -= 1
+            if up_bound <= bottom_bound:
+                for i in range(right_bound , left_bound - 1, -1):
+                    rst.append(matrix[bottom_bound][i])
+                bottom_bound -= 1
+            if right_bound >= left_bound:
+                for i in range(bottom_bound , up_bound - 1 ,  -1):
+                    rst.append(matrix[i][left_bound])
+                left_bound += 1
+        
         return rst
-
-
+                 
+                 

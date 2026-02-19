@@ -234,6 +234,7 @@
 | [0502-ipo](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0594-longest-harmonious-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -298,6 +299,7 @@
 | [0454-4sum-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0454-4sum-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0594-longest-harmonious-subsequence) |
 | [0752-open-the-lock](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0752-open-the-lock) |
 | [0768-partition-labels](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0768-partition-labels) |
@@ -702,6 +704,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0560-subarray-sum-equals-k) |
 ## Simulation
 |  |
 | ------- |

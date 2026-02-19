@@ -1,20 +1,20 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
-        rst = []
         path = []
-
-        def dfs(open_int , close_int):
-            if len(path) == 2 * n:
+        rst = []
+        def backtracking(open_use , close_use , n,path):
+            if open_use == n and close_use == n:
                 rst.append(''.join(path))
-                return
-            if open_int < n:
+            if open_use < close_use:
+                return 
+            if open_use < n:
                 path.append('(')
-                dfs(open_int + 1 , close_int)
+                backtracking(open_use + 1, close_use , n , path)
                 path.pop()
-            if close_int < open_int:
+            if close_use < n:
                 path.append(')')
-                dfs(open_int , close_int + 1)
+                backtracking(open_use, close_use + 1 , n , path)
                 path.pop()
-        dfs(0,0)
+        backtracking(0 , 0 , n , path)
         return rst
         

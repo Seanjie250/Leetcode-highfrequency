@@ -86,6 +86,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0538-convert-bst-to-greater-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0875-koko-eating-bananas) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1027-longest-arithmetic-subsequence) |
 ## Binary Tree
 |  |
@@ -248,6 +249,7 @@
 | [0792-binary-search](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0854-making-a-large-island) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [0875-koko-eating-bananas](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0890-lemonade-change) |
 | [0909-snakes-and-ladders](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0918-maximum-sum-circular-subarray) |

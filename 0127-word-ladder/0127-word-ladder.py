@@ -1,35 +1,37 @@
 class Solution:
-    def checkletter(self,before:str,after:str):
-        diff = 0
-        for a,b in zip(before,after):
-            if a != b:
-                diff += 1
-            if diff > 1:
-                return False
-        return diff == 1
-
     def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
-        if beginWord == endWord:
+        if endWord not in wordList:
             return 0
-        if not endWord in wordList:
-            return 0
-        n = len(wordList)
-        visited = [False for _ in range(n)]
-        queue = [[beginWord,1]]
-        while queue:
-            string,step = queue.pop(0)
-            if self.checkletter(string,endWord):
-                return step + 1
-            for i in range(n):
-                if not visited[i] and self.checkletter(string,wordList[i]):
-                    visited[i] = True
-                    queue.append([wordList[i],step + 1])
-        return 0
-        
-        
-        
+        wordListset = set(wordList)
+        visited = set([beginWord])
+        q = deque()
+        q.append(beginWord)
+        count = 1
+        while q:
+            for i in range(len(q)):
+                word = q.popleft()
+                word = list(word)
+                for j in range(len(word)):  
+                    original = word[j]
+                    for k in range(26):
+                        
+                        word[j] = chr(ord('a') + k)
+                        new_word = ''.join(word)
+                        print(new_word)
+                        if new_word == endWord:
+                            return count + 1
+                        if new_word in wordListset and new_word not in visited:
+                            visited.add(new_word)
+                            q.append(new_word)
+            
+                            print(count)
+                    word[j] = original
+            count += 1
+        return 0    
+                    
+
+                    
 
 
-            
-            
+
         

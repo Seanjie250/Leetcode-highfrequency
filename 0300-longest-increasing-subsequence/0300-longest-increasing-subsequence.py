@@ -2,12 +2,13 @@ from bisect import bisect_left
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
         tail = []
-
-        for num in nums:
-            i = bisect_left(tail , num)
-            if i == len(tail):
+        tail.append(nums[0])
+        for num in nums[1:]:
+            index = bisect_left(tail , num)
+            if index >= len(tail):
                 tail.append(num)
             else:
-                tail[i] = num
-
+                tail[index] = num
+           
         return len(tail)
+        

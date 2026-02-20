@@ -1,26 +1,29 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        degree = [0] * numCourses
+        degrees = [0] * numCourses
         graph = defaultdict(list)
         for course , prerequisite in prerequisites:
             graph[prerequisite].append(course)
-            degree[course] += 1
-        
+            degrees[course] += 1
+        print(graph)
+
         q = deque()
-        for i in range(len(degree)):
-            if degree[i] == 0:
+
+        for i in range(len(degrees)):
+            if degrees[i] == 0:
                 q.append(i)
         count = 0
         while q:
-            course = q.popleft()
-            print(course)
-            for c in graph[course]:
-                degree[c] -= 1
-                if degree[c] == 0:
-                    q.append(c)
-            count += 1
+            for i in range(len(q)):
+                cur = q.popleft()
+                
+                for courses in graph[cur]:
+                    degrees[courses] -= 1
+                    if degrees[courses] == 0:
+                        q.append(courses)
+                count += 1
+        return count == numCourses
 
-                    
-        return True if count == numCourses else False
-            
-            
+
+
+

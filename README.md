@@ -227,6 +227,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0376-wiggle-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0376-wiggle-subsequence) |
@@ -311,6 +312,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0383-ransom-note) |
@@ -468,6 +470,7 @@
 | [0242-valid-anagram](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0435-non-overlapping-intervals) |
@@ -582,6 +585,7 @@
 | [0191-number-of-1-bits](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Indexed Tree
 |  |
@@ -801,12 +805,14 @@
 | [0023-merge-k-sorted-lists](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0502-ipo) |
 | [0778-reorganize-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0778-reorganize-string) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0594-longest-harmonious-subsequence) |
@@ -850,6 +856,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0347-top-k-frequent-elements) |
 ## Data Stream
 |  |
 | ------- |
@@ -882,4 +889,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0258-add-digits) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

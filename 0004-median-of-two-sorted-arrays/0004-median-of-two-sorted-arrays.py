@@ -8,10 +8,12 @@ class Solution:
             if len(min_heap) > len(max_heap):
                 heapq.heappush(max_heap , -heapq.heappop(min_heap))
             
-        if len(max_heap) > len(min_heap):
-            return -max_heap[0]
+        if len(min_heap) < len(max_heap):
+            median = - max_heap[0]
+            
         else:
-            return (-max_heap[0] + min_heap[0]) / 2
+            median = (min_heap[0] - max_heap[0]) / 2
+        return median
 
             
 

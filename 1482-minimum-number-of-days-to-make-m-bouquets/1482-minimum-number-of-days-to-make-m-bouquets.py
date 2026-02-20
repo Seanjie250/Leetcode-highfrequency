@@ -25,11 +25,12 @@ class Solution:
         while left <= right:
             mid = (left + right) // 2
             if isValid(mid):
+                ans = mid
                 right = mid - 1
             else:
                 left = mid + 1
         
-        return left
+        return ans
 
 
 

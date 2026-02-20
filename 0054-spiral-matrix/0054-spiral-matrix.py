@@ -1,27 +1,34 @@
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
         m , n = len(matrix) , len(matrix[0])
-        up_bound , bottom_bound = 0 , m - 1
-        left_bound  , right_bound = 0 , n - 1
+        l_b , r_b = 0 , n - 1
+        t_b , b_b = 0 , m - 1
         rst = []
-        while len(rst) < m * n:
-            if up_bound <= bottom_bound:
-                for i in range(left_bound , right_bound + 1):
-                    rst.append(matrix[up_bound][i])
-                up_bound += 1
-            if right_bound >= left_bound:
-                for i in range(up_bound , bottom_bound + 1):
-                    rst.append(matrix[i][right_bound])
-                right_bound -= 1
-            if up_bound <= bottom_bound:
-                for i in range(right_bound , left_bound - 1, -1):
-                    rst.append(matrix[bottom_bound][i])
-                bottom_bound -= 1
-            if right_bound >= left_bound:
-                for i in range(bottom_bound , up_bound - 1 ,  -1):
-                    rst.append(matrix[i][left_bound])
-                left_bound += 1
-        
+        while l_b <= r_b and t_b <= b_b:
+            if t_b <= b_b:
+
+                for i in range(l_b , r_b + 1):
+                    rst.append(matrix[t_b][i])
+                t_b += 1
+            
+            if r_b >= l_b:
+
+                for i in range(t_b , b_b + 1):
+                    rst.append(matrix[i][r_b])
+                r_b -= 1
+
+            if t_b <= b_b:
+
+                for i in range(r_b , l_b - 1,  - 1):
+                    rst.append(matrix[b_b][i])
+                b_b -= 1
+            
+            if r_b >= l_b:
+
+                for i in range(b_b  , t_b - 1 , - 1):
+                    rst.append(matrix[i][l_b])
+                l_b += 1
         return rst
-                 
-                 
+            
+                    
+        

@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -75,6 +77,7 @@
 | [0069-sqrtx](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0074-search-a-2d-matrix) |
 | [0096-unique-binary-search-trees](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -93,6 +96,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0104-maximum-depth-of-binary-tree) |

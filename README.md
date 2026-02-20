@@ -610,6 +610,7 @@
 | [0189-rotate-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0224-basic-calculator) |
+| [0258-add-digits](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0343-integer-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0380-insert-delete-getrandom-o1) |
@@ -746,6 +747,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0735-asteroid-collision) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1535-find-the-winner-of-an-array-game) |
@@ -871,4 +873,8 @@
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1534-count-good-triplets) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

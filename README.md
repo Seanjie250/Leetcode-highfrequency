@@ -65,6 +65,7 @@
 | [0854-making-a-large-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0854-making-a-large-island) |
 | [1008-binary-tree-cameras](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1008-binary-tree-cameras) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1462-course-schedule-iv](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1462-course-schedule-iv) |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1644-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2793-count-the-number-of-complete-components](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2793-count-the-number-of-complete-components) |
@@ -681,6 +682,7 @@
 | [0854-making-a-large-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0854-making-a-large-island) |
 | [0909-snakes-and-ladders](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0994-rotting-oranges) |
+| [1462-course-schedule-iv](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1462-course-schedule-iv) |
 | [2793-count-the-number-of-complete-components](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2793-count-the-number-of-complete-components) |
 ## Trie
 |  |
@@ -826,6 +828,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0210-course-schedule-ii) |
+| [1462-course-schedule-iv](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1462-course-schedule-iv) |
 ## Counting Sort
 |  |
 | ------- |
@@ -877,6 +880,7 @@
 | [0207-course-schedule](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0399-evaluate-division) |
+| [1462-course-schedule-iv](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1462-course-schedule-iv) |
 ## Shortest Path
 |  |
 | ------- |

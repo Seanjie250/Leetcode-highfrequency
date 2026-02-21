@@ -815,6 +815,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0502-ipo) |
 | [0778-reorganize-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0778-reorganize-string) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Counting
 |  |
 | ------- |
@@ -881,10 +882,12 @@
 | [0210-course-schedule-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0399-evaluate-division) |
 | [1462-course-schedule-iv](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1462-course-schedule-iv) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0399-evaluate-division) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Geometry
 |  |
 | ------- |

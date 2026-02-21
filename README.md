@@ -316,6 +316,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0242-valid-anagram) |
@@ -374,6 +375,7 @@
 | [0139-word-break](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0290-word-pattern) |
@@ -700,6 +702,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0208-implement-trie-prefix-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -811,6 +814,7 @@
 | [0146-lru-cache](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0380-insert-delete-getrandom-o1) |
 ## Doubly-Linked List

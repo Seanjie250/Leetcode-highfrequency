@@ -90,6 +90,7 @@
 | [0268-missing-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0349-intersection-of-two-arrays) |
+| [0528-random-pick-with-weight](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0528-random-pick-with-weight) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0538-convert-bst-to-greater-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0792-binary-search) |
@@ -252,6 +253,7 @@
 | [0502-ipo](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0518-coin-change-ii) |
+| [0528-random-pick-with-weight](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0594-longest-harmonious-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -631,6 +633,7 @@
 | [0279-perfect-squares](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0343-integer-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0380-insert-delete-getrandom-o1) |
+| [0528-random-pick-with-weight](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0528-random-pick-with-weight) |
 | [0738-monotone-increasing-digits](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0738-monotone-increasing-digits) |
 | [0772-basic-calculator-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0772-basic-calculator-iii) |
 | [1013-fibonacci-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1013-fibonacci-number) |
@@ -758,6 +761,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0238-product-of-array-except-self) |
+| [0528-random-pick-with-weight](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1004-max-consecutive-ones-iii) |
 | [2488-count-subarrays-with-median-k](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2488-count-subarrays-with-median-k) |
@@ -844,6 +848,7 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0380-insert-delete-getrandom-o1) |
+| [0528-random-pick-with-weight](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0528-random-pick-with-weight) |
 ## String Matching
 |  |
 | ------- |

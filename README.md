@@ -87,6 +87,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0349-intersection-of-two-arrays) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0538-convert-bst-to-greater-tree) |
@@ -223,6 +224,7 @@
 | [0228-summary-ranges](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0300-longest-increasing-subsequence) |
@@ -313,6 +315,7 @@
 | [0217-contains-duplicate](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0349-intersection-of-two-arrays) |
@@ -457,6 +460,7 @@
 | [0191-number-of-1-bits](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0268-missing-number) |
 | [0491-non-decreasing-subsequences](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0491-non-decreasing-subsequences) |
 ## Sorting
 |  |
@@ -471,6 +475,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0347-top-k-frequent-elements) |
@@ -622,6 +627,7 @@
 | [0202-happy-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0343-integer-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0380-insert-delete-getrandom-o1) |

@@ -1,13 +1,10 @@
 class Solution:
     def canJump(self, nums: List[int]) -> bool:
-        if len(nums) == 1:
-            return True
-        cover = 0
-        i = 0
-        while i <= cover:
-            cover = max(cover , nums[i] + i)
-            if cover >= len(nums) - 1:
-                return True
-            i += 1
-        return False
-            
+        goal = len(nums) -1
+        for i in range(len(nums) - 2 , - 1, -1):
+            if nums[i] + i >= goal:
+                goal = i
+        return True if goal == 0 else False
+                
+        
+        

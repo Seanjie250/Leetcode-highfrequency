@@ -1,26 +1,28 @@
 class Solution:
+    
     def minCost(self, n: int, edges: List[List[int]]) -> int:
-        adj = defaultdict(list)
-        for u , v ,  w in edges:
-            adj[u].append((w , v))
-            adj[v].append((2 * w , u))
-
+        graph = defaultdict(list)
+        for u , v , w in edges:
+            graph[u].append((v , w))
+            graph[v].append((u , 2 * w))
         
-        heap = [(0 , 0)]
         dic = [float('inf')] * n
         dic[0] = 0
-        while heap:
-            d , node = heapq.heappop(heap)
+        pq = [(0 , 0)]
+        while pq:
+            cost , node = heapq.heappop(pq)
             if node == n - 1:
-                return d
-            if d != dic[node]:
+                return cost
+            if cost != dic[node]:
                 continue
-            for w , v in adj[node]:
+            for v , w in graph[node]:
                 if dic[node] + w < dic[v]:
                     dic[v] = dic[node] + w
-                    heapq.heappush(heap , (dic[v] , v))
+                    heapq.heappush(pq , (dic[v] , v))
+        
         return -1
 
         
+
 
         

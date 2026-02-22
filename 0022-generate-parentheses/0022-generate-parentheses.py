@@ -1,20 +1,24 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
+        left_left, right_left = n , n
         path = []
         rst = []
-        def backtracking(open_use , close_use , n,path):
-            if open_use == n and close_use == n:
+        def backtracking(path ,rst, left , right):
+            if left == 0 and right == 0:
                 rst.append(''.join(path))
-            if open_use < close_use:
+            if left > right:
                 return 
-            if open_use < n:
+            if left > 0 :
                 path.append('(')
-                backtracking(open_use + 1, close_use , n , path)
+                backtracking(path , rst , left - 1, right)
                 path.pop()
-            if close_use < n:
+            if right > 0:
                 path.append(')')
-                backtracking(open_use, close_use + 1 , n , path)
+                backtracking(path , rst , left, right - 1)
                 path.pop()
-        backtracking(0 , 0 , n , path)
+            
+        backtracking(path ,rst , left_left , right_left)
         return rst
+
+
         

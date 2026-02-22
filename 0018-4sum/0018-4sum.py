@@ -1,39 +1,47 @@
 class Solution:
     def fourSum(self, nums: List[int], target: int) -> List[List[int]]:
+
         nums = sorted(nums)
-        def findtwosum(nums , target):
-            l , r = 0 , len(nums) - 1
+
+        def find2sum(nums , target):
+            left , right = 0 , len(nums) - 1
             rst = []
-            while l < r:
-                sum_ = nums[l] + nums[r]
+           
+            while left < right:
+                sum_ = nums[left] + nums[right]
                 if sum_ > target:
-                    r -= 1
+                    right -= 1
                 elif sum_ < target:
-                    l += 1
-                elif sum_ == target:
-                    rst.append([nums[l] , nums[r]])
-                    l += 1
-                    r -= 1
-                    while l < r and nums[l] == nums[l - 1]:
-                        l += 1
-                    while l < r and nums[r] == nums[r + 1]:
-                        r -= 1
+                    left += 1
+                else:
+                    rst.append([nums[left] , nums[right]])
+                    left += 1
+                    right -= 1
+                    while left < right and nums[left] == nums[left - 1]:
+                        left += 1
+                    while left < right and nums[right] == nums[right + 1]:
+                        right -= 1
+            print(rst)
             return rst
-    
-        def kthsum(nums, k , target):
+                    
+        
+        def kthsum(nums , target , k):
             avg = target / k
             rst = []
             if nums[0] > avg or nums[-1] < avg:
                 return rst
-            
             if k == 2:
-                return findtwosum(nums,target)
-
+                return find2sum(nums , target)
             for i in range(len(nums) - k + 1):
                 if i > 0 and nums[i] == nums[i - 1]:
                     continue
-                for subset in kthsum(nums[i + 1:] , k - 1 , target - nums[i]):
+                for subset in kthsum(nums[i + 1:] , target - nums[i] , k - 1):
                     rst.append([nums[i]] + subset)
+                    print(rst)
             return rst
+        
+        return kthsum(nums, target, 4)
+                
+            
 
-        return kthsum(nums , 4, target)
+        

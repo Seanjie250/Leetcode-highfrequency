@@ -5,15 +5,13 @@ class Solution:
         if dp[n] != -1:
             return dp[n]
         ans = 0
-        for i in range( 1, n + 1):
-            ans += self.dp_(dp , i - 1) * self.dp_(dp , n - i)
+        for i in range(1,  n):
+            ans += self.dp_(dp , n - i) * self.dp_(dp , i - 1)
         dp[n] = ans
         return dp[n]
+
     def numTrees(self, n: int) -> int:
+        if n <= 2:
+            return n
         dp = [-1] * (n + 1)
         return self.dp_(dp , n)
-    
-        
-
-
-        

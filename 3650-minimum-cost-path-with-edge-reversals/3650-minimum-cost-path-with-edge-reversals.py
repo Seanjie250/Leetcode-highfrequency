@@ -13,6 +13,7 @@ class Solution:
             cost , node = heapq.heappop(pq)
             if node == n - 1:
                 return cost
+           
             if cost != dic[node]:
                 continue
             for v , w in graph[node]:

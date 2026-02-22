@@ -1,28 +1,27 @@
-from bisect import bisect_left
 class Solution:
     def shipWithinDays(self, weights: List[int], days: int) -> int:
-        left , right = max(weights) , sum(weights)
-
-        def is_ok(weights , capacity):
-            used_day = 1
-            w = 0
-            for cur in weights:
-                if cur + w <= capacity:
-                    w += cur
+        left = max(weights) 
+        right = sum(weights)
+        def if_ok(workload , days):
+            prefix_sum = 0
+            time = 1
+            for weight in weights:
+                if prefix_sum + weight <= workload:
+                    prefix_sum += weight
                 else:
-                    used_day += 1
-                    w = cur
-                    if used_day > days:
+                    time += 1
+                    prefix_sum = weight
+                    if time > days:
                         return False
-            print(used_day)
-            print(capacity)
             return True
-        
+    
         while left <= right:
             mid = (left + right) // 2
-            if is_ok(weights , mid):
+            if if_ok(mid, days):
                 right = mid - 1
             else:
                 left = mid + 1
-        
         return left
+
+                
+        

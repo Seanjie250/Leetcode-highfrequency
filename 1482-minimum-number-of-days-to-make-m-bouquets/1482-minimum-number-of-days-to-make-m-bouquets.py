@@ -1,37 +1,37 @@
-from bisect import bisect_left
 class Solution:
     def minDays(self, bloomDay: List[int], m: int, k: int) -> int:
-        if m * k > len(bloomDay):
-            return -1
-        n = len(bloomDay)
         ans = 0
-        def isValid(mid):
+        def is_ok(mid):
             count = 0
-            bouquet = 0
-            for bloom in bloomDay:
-                if bloom <= mid:
+            bouquest = 0
+            for day in bloomDay:
+                if day <= mid:
                     count += 1
                     if count == k:
+                        bouquest += 1
                         count = 0
-                        bouquet += 1
-                        if bouquet >= m:
+                        if bouquest >= m:
                             return True
                 else:
                     count = 0
             return False
-
+        
+        if m * k > len(bloomDay):
+            return -1
+        
         left , right = min(bloomDay) , max(bloomDay)
-
         while left <= right:
             mid = (left + right) // 2
-            if isValid(mid):
+            if is_ok(mid):
                 ans = mid
+                print(ans)
                 right = mid - 1
             else:
                 left = mid + 1
+        return ans 
+                    
+            
+
+
         
-        return ans
-
-
-
         

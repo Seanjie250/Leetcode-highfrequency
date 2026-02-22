@@ -1,35 +1,44 @@
 class Solution:
     def solveNQueens(self, n: int) -> List[List[str]]:
-        chessbroad = ['.' * n for _ in range(n)]
+        def add_queens(queens):
+            rst = []
+            for _ , col in queens:
+                level = '.'* col + 'Q' + '.'*(n - col - 1)
+                rst.append(level)
+            return rst
+
+
+        if n == 1:
+            return [['Q']]
+        cols = set()
+        dig1 = set()
+        dig2 = set()
         rst = []
-        self.backtracking(n,chessbroad,0,rst)
+        queens = []
+        def dfs(row):
+            if row == n:
+                rst.append(add_queens(queens))
+            for col in range(n):
+                if col in cols or row + col in dig1 or row - col in dig2:
+                    continue
+                cols.add(col)
+                dig1.add(col + row)
+                dig2.add(row - col)
+                queens.append((row , col))
+                dfs(row + 1)
+                queens.pop()
+                cols.remove(col)
+                dig1.remove(col + row)
+                dig2.remove(row - col)
+        dfs(0)
         return rst
 
+            
 
-    def backtracking(self,n,chessbroad,row,rst):
-        if row == n:
-            rst.append(chessbroad[:])
-        for i in range(n):
-            if self.isvalid(row,i,n,chessbroad):
-                chessbroad[row] = chessbroad[row][:i] + "Q" + chessbroad[row][i+1:]
-                self.backtracking(n,chessbroad,row + 1,rst)
-                chessbroad[row] = chessbroad[row][:i] + "." + chessbroad[row][i+1:]
-    def isvalid(self,row,col,n,chessbroad):
-        for i in range(n):
-            if chessbroad[i][col] == "Q":
-                return False
 
-        i ,j = row - 1 ,col - 1
-        while i >= 0 and j >= 0:
-            if chessbroad[i][j] == "Q":
-                return False
-            i -= 1
-            j -= 1
+
+
         
-        i,j = row - 1, col + 1
-        while j >= 0 and j < n:
-            if chessbroad[i][j] == "Q":
-                return False
-            i -= 1
-            j += 1
-        return True
+
+
+        

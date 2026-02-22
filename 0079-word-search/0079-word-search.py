@@ -1,39 +1,31 @@
 class Solution:
     directions = [[0,1] , [0 , -1] , [1, 0] , [-1 , 0]]
-    def dfs(self, board , visited , i ,j ,word ,count):
-        if board[i][j] != word[count]:
-            return False
-        if count == len(word) - 1:
+    def dfs(self , board , visited , word , i , j):
+        
+        if not word:
             return True
-        visited[i][j] = True
-        m , n = len(board) , len(board[0])
+        m ,n = len(board) , len(board[0])
         for dx , dy in self.directions:
-            new_x = i + dx
-            new_y = j + dy
-            if new_x < m and new_x >= 0 and new_y >= 0 and new_y < n and not visited[new_x][new_y] and board[new_x][new_y] == word[count + 1]:
-                if self.dfs(board , visited , new_x ,new_y ,word ,count + 1):
+            new_x , new_y = dx + i , dy + j
+            if new_x >= 0 and new_x < m and new_y >= 0 and new_y < n and not visited[new_x][new_y] and board[new_x][new_y] == word[0]:
+                visited[new_x][new_y] = True
+                if self.dfs(board , visited , word[1:] , new_x , new_y):
                     return True
-        visited[i][j] = False     
+                visited[new_x][new_y] = False
         return False
-                
-        
+
+
     def exist(self, board: List[List[str]], word: str) -> bool:
-        
-        length = len(word)
-        m , n = len(board) , len(board[0])
-        ans = False
+        m ,n = len(board) , len(board[0])
         visited = [[False] * n for _ in range(m)]
         for i in range(m):
             for j in range(n):
                 if board[i][j] == word[0]:
-                    if self.dfs(board , visited , i ,j ,word,0):
+                    visited[i][j] = True
+                    if self.dfs(board , visited , word[1:], i , j):
                         return True
+                    visited[i][j] = False
         return False
-                   
-
-                
                     
-        
-
 
         

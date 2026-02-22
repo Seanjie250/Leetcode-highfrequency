@@ -273,6 +273,7 @@
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0890-lemonade-change) |
+| [0904-fruit-into-baskets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0907-sum-of-subarray-minimums) |
 | [0909-snakes-and-ladders](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0918-maximum-sum-circular-subarray) |
@@ -341,6 +342,7 @@
 | [0768-partition-labels](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0778-reorganize-string) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [0904-fruit-into-baskets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0904-fruit-into-baskets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1027-longest-arithmetic-subsequence) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -721,6 +723,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0594-longest-harmonious-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0904-fruit-into-baskets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1004-max-consecutive-ones-iii) |
 ## Rolling Hash
 |  |

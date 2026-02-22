@@ -637,6 +637,7 @@
 | [0279-perfect-squares](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0343-integer-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0380-insert-delete-getrandom-o1) |
+| [0390-elimination-game](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0390-elimination-game) |
 | [0528-random-pick-with-weight](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0528-random-pick-with-weight) |
 | [0738-monotone-increasing-digits](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0738-monotone-increasing-digits) |
 | [0772-basic-calculator-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0772-basic-calculator-iii) |
@@ -653,6 +654,7 @@
 | [0206-reverse-linked-list](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0234-palindrome-linked-list) |
+| [0390-elimination-game](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0390-elimination-game) |
 | [0772-basic-calculator-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0772-basic-calculator-iii) |
 | [1013-fibonacci-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1013-fibonacci-number) |
 ## Memoization

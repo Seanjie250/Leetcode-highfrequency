@@ -17,8 +17,8 @@ class Solution:
             if cost != dic[node]:
                 continue
             for v , w in graph[node]:
-                if dic[node] + w < dic[v]:
-                    dic[v] = dic[node] + w
+                if cost + w < dic[v]:
+                    dic[v] = cost + w
                     heapq.heappush(pq , (dic[v] , v))
         
         return -1

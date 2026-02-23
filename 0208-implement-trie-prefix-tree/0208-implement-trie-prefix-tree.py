@@ -11,7 +11,7 @@ class Trie:
             if ch not in node.children:
                 node.children[ch] = TireNode()
             node = node.children[ch]
-        self.isend = True
+        node.isend = True
         
 
     def search(self , word):
@@ -21,7 +21,7 @@ class Trie:
                 return False
             else:
                 node = node.children[ch]
-        return self.isend
+        return node.isend
         
 
     def startsWith(self , prefix):

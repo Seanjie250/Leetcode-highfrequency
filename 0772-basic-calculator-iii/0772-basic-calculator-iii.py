@@ -46,8 +46,3 @@ class Solution:
             return sum(stack)
         return helper()
                 
-
-            
-        
-
-        

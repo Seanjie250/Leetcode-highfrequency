@@ -1,31 +1,23 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        need = Counter(t)
-        window = Counter()
-        left , right = 0 , 0
-        valid = 0
-        length = float('inf')
-        while right < len(s):
-            ch =  s[right]
-            right += 1
-            if ch in need:
-                window[ch] += 1
-                if window[ch] == need[ch]:
-                    valid += 1
-            
-            while valid == len(need):
-                if right - left < length:
-                    start = left
-                    length = right - left
-                print(left)
-                d = s[left]
-                left += 1
-                if d in need:
-                    if window[d] == need[d]:
-                        valid -= 1
-                    window[d] -=1
-        return "" if length == float('inf') else s[start : start + length]
-            
-                
-                
+        have = 0
         
+        hash_t = Counter(t)
+        should_have = len(hash_t)
+        hash_n = Counter()
+        left , start = 0 , 0
+        ans = float('inf')
+        for right , x in enumerate(s):
+            hash_n[x] += 1
+            if x in hash_t and hash_n[x] == hash_t[x]:
+                have += 1
+            while have == should_have:
+                if ans > right - left + 1:
+                    ans = right - left + 1
+                    start = left
+                hash_n[s[left]] -= 1
+                if s[left] in hash_t and hash_n[s[left]] < hash_t[s[left]]:
+                    have -= 1
+                left += 1
+
+        return s[start : start + ans] if ans != float('inf') else ''

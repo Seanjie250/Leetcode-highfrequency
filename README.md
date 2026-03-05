@@ -388,6 +388,7 @@
 | [0383-ransom-note](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0433-minimum-genetic-mutation) |
@@ -667,6 +668,7 @@
 | [0224-basic-calculator](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0234-palindrome-linked-list) |
 | [0390-elimination-game](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0394-decode-string) |
 | [0772-basic-calculator-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0772-basic-calculator-iii) |
 | [1013-fibonacci-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -753,6 +755,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0735-asteroid-collision) |

@@ -55,6 +55,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0337-house-robber-iii) |
+| [0365-water-and-jug-problem](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0463-island-perimeter) |
@@ -642,6 +643,7 @@
 | [0268-missing-number](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0343-integer-break) |
+| [0365-water-and-jug-problem](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0365-water-and-jug-problem) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0380-insert-delete-getrandom-o1) |
 | [0390-elimination-game](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0390-elimination-game) |
 | [0528-random-pick-with-weight](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0528-random-pick-with-weight) |
@@ -692,6 +694,7 @@
 | [0226-invert-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0433-minimum-genetic-mutation) |

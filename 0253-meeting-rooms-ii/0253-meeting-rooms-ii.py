@@ -3,7 +3,7 @@ class Solution:
         heap = []
         sort = sorted(intervals)
         for i in sort:
-            if heap == [] or heap[0] > i[1]:
+            if heap == [] or heap[0] > i[0]:
                 heapq.heappush(heap , i[1])
             else:
                 heapq.heapreplace(heap , i[1])

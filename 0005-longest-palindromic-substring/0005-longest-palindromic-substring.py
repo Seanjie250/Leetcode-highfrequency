@@ -1,23 +1,30 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        if not s:
-            return ''
-        def expandfromcenter(s , left , right):
-            while left >= 0 and right < len(s) and s[left] == s[right]:
-                right += 1
-                left -= 1
-            return right - left - 1
-        
         start = 0
-        end = 0
+        max_len = 0
 
         for i in range(len(s)):
-            odd = expandfromcenter(s, i , i)
-            even = expandfromcenter(s, i , i + 1)
-            maxm = max(odd ,even)
 
-            if maxm > end - start:
-                start = i - (maxm - 1) // 2
-                end = i + maxm // 2
+            # odd length palindrome
+            left, right = i, i
+            while left >= 0 and right < len(s) and s[left] == s[right]:
+                if right - left + 1 > max_len:
+                    start = left
+                    max_len = right - left + 1
+                left -= 1
+                right += 1
 
-        return s[start : end + 1]        
+            # even length palindrome
+            left, right = i, i + 1
+            while left >= 0 and right < len(s) and s[left] == s[right]:
+                if right - left + 1 > max_len:
+                    start = left
+                    max_len = right - left + 1
+                left -= 1
+                right += 1
+
+        return s[start:start + max_len]
+
+
+
+            

@@ -396,6 +396,7 @@
 | [0474-ones-and-zeroes](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0678-valid-parenthesis-string) |
 | [0752-open-the-lock](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0752-open-the-lock) |
 | [0768-partition-labels](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0768-partition-labels) |
 | [0772-basic-calculator-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0772-basic-calculator-iii) |
@@ -448,6 +449,7 @@
 | [0518-coin-change-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0747-min-cost-climbing-stairs) |
@@ -591,6 +593,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0502-ipo) |
+| [0678-valid-parenthesis-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0738-monotone-increasing-digits](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0738-monotone-increasing-digits) |
 | [0768-partition-labels](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0768-partition-labels) |
@@ -758,6 +761,7 @@
 | [0394-decode-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0739-daily-temperatures) |
 | [0772-basic-calculator-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0772-basic-calculator-iii) |

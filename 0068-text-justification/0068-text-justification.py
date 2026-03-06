@@ -1,44 +1,30 @@
 class Solution:
-    def calculatelength(self, words, maxWidth, start):
-        total_len = 0
-        count = 0
-        i = start
-
-        while i < len(words):
-            word_len = len(words[i])
-            # need +1 space between words except the first
-            if total_len + word_len + count <= maxWidth:
-                total_len += word_len
-                i += 1
-                count += 1
-            else:
-                break
-        return count, total_len  # only pure word length
-
-    def division(self, words, maxWidth, length, num, is_last=False):
-        # Handle single word or last line
-        if num == 1 or is_last:
-            line = " ".join(words)
-            line += " " * (maxWidth - len(line))
-            return line
-
-        total_space = maxWidth - length
-        base_space = total_space // (num - 1)
-        extra_space = total_space % (num - 1)
-
-        rst = ""
-        for i in range(num - 1):
-            rst += words[i]
-            rst += " " * (base_space + (1 if i < extra_space else 0))
-        rst += words[-1]
-        return rst
-
     def fullJustify(self, words: List[str], maxWidth: int) -> List[str]:
-        rst = []
-        i = 0
-        while i < len(words):
-            num, length = self.calculatelength(words, maxWidth, i)
-            is_last = (i + num >= len(words))
-            rst.append(self.division(words[i:i + num], maxWidth, length, num, is_last))
-            i += num
+        rst , cur = [] , []
+        cur_width = 0
+        for word in words:
+            if cur_width + len(word) + len(cur) > maxWidth:
+                total_spaces = maxWidth - cur_width
+                gaps = len(cur) - 1
+                if gaps == 0:
+                    rst.append(cur[0] + ' '*total_spaces)
+                else:
+                    space_per_gap = total_spaces // gaps
+                    extra_spaces = total_spaces % gaps
+                    line = ''
+                    for i , w in enumerate(cur):
+                        line += w
+                        if i < gaps:
+                            line += ' '*space_per_gap
+                            if i < extra_spaces:
+                                line += ' '
+                    rst.append(line)
+                cur , cur_width = [] , 0
+            cur.append(word)
+            cur_width += len(word)
+        last_line = ' '.join(cur)
+        remaining_spaces = maxWidth - len(last_line)
+        rst.append(last_line + ' '*remaining_spaces)
         return rst
+
+        

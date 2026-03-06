@@ -63,6 +63,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0695-max-area-of-island) |
+| [0827-making-a-large-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0827-making-a-large-island) |
 | [0854-making-a-large-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0854-making-a-large-island) |
 | [1008-binary-tree-cameras](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1008-binary-tree-cameras) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -271,6 +272,7 @@
 | [0752-open-the-lock](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0773-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0792-binary-search) |
+| [0827-making-a-large-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0827-making-a-large-island) |
 | [0854-making-a-large-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0854-making-a-large-island) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0875-koko-eating-bananas) |
@@ -539,6 +541,7 @@
 | [0463-island-perimeter](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0695-max-area-of-island) |
 | [0773-sliding-puzzle](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0773-sliding-puzzle) |
+| [0827-making-a-large-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0827-making-a-large-island) |
 | [0854-making-a-large-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0854-making-a-large-island) |
 | [0909-snakes-and-ladders](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0994-rotting-oranges) |
@@ -712,6 +715,7 @@
 | [0695-max-area-of-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0695-max-area-of-island) |
 | [0752-open-the-lock](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0773-sliding-puzzle) |
+| [0827-making-a-large-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0827-making-a-large-island) |
 | [0854-making-a-large-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0854-making-a-large-island) |
 | [0909-snakes-and-ladders](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0994-rotting-oranges) |
@@ -918,6 +922,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0399-evaluate-division) |
+| [0827-making-a-large-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0827-making-a-large-island) |
 ## Graph Theory
 |  |
 | ------- |

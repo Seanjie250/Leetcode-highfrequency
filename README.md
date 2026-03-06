@@ -62,6 +62,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0694-number-of-distinct-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0695-max-area-of-island) |
 | [0827-making-a-large-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0827-making-a-large-island) |
 | [0854-making-a-large-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0854-making-a-large-island) |
@@ -263,6 +264,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0594-longest-harmonious-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0694-number-of-distinct-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -342,6 +344,7 @@
 | [0496-next-greater-element-i](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0594-longest-harmonious-subsequence) |
+| [0694-number-of-distinct-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0694-number-of-distinct-islands) |
 | [0752-open-the-lock](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0752-open-the-lock) |
 | [0768-partition-labels](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0778-reorganize-string) |
@@ -506,6 +509,7 @@
 | [0455-assign-cookies](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0594-longest-harmonious-subsequence) |
+| [0694-number-of-distinct-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0694-number-of-distinct-islands) |
 | [0778-reorganize-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0778-reorganize-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -540,6 +544,7 @@
 | [0289-game-of-life](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0463-island-perimeter) |
+| [0694-number-of-distinct-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0695-max-area-of-island) |
 | [0773-sliding-puzzle](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0773-sliding-puzzle) |
 | [0827-making-a-large-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0827-making-a-large-island) |
@@ -714,6 +719,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0463-island-perimeter) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0694-number-of-distinct-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0695-max-area-of-island) |
 | [0752-open-the-lock](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0773-sliding-puzzle) |
@@ -750,6 +756,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0694-number-of-distinct-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0694-number-of-distinct-islands) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Stack
 |  |
@@ -926,6 +933,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0399-evaluate-division) |
+| [0694-number-of-distinct-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0694-number-of-distinct-islands) |
 | [0827-making-a-large-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0827-making-a-large-island) |
 ## Graph Theory
 |  |

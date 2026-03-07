@@ -1,31 +1,55 @@
+class TireNode:
+    def __init__(self):
+        self.isend = False
+        self.node = None
+        self.children = {}
+class Tire:
+    def __init__(self):
+        self.root = TireNode()
+    def insert(self , word):
+        node = self.root
+        for ch in word:
+            if ch not in node.children:
+                node.children[ch] = TireNode()
+            node = node.children[ch]
+        node.isend = True
+        node.word = word
+         
 class Solution:
-    directions = [[1, 0] , [0 , 1] , [0, - 1] , [-1 , 0]]
-    def dfs(self, board, word , visited , i , j):
-        m , n = len(board) , len(board[0])
-        if len(word) == 0:
-            return True
-        for dx,dy in self.directions:
-            new_x = dx + i
-            new_y = dy + j
-            if 0<= new_x < m and 0<= new_y < n and board[new_x][new_y] == word[0] and not visited[new_x][new_y]:
-                visited[new_x][new_y] = True
-                if self.dfs(board, word[1:] , visited , new_x , new_y):
-                    return True
-                visited[new_x][new_y] = False
-        return False
     def findWords(self, board: List[List[str]], words: List[str]) -> List[str]:
-        rst = []
         m , n = len(board) , len(board[0])
+        trie = Tire()
         for word in words:
-            visited = [[False] * n for _ in range(m)]
-            for i in range(m):
-                for j in range(n):
-                    if board[i][j] == word[0] and not visited[i][j]:
-                        visited[i][j] = True
-                        if self.dfs(board , word[1:], visited , i , j):
-                            if word not in rst:
-                                rst.append(word)
-                        visited[i][j] = False
+            trie.insert(word)
+        visited = [[False] * n for _ in range(m)]
+        rst = []
+
+        def dfs(i , j ,parent):
+            if not(0<= i < m and 0 <= j < n and not visited[i][j]):
+                return  
+            c = board[i][j]
+            if not c in parent.children:
+                return
+            node = parent.children[c]
+            visited[i][j] = True
+            if node.isend and node.word:
+                word = node.word
+                rst.append(word)
+                node.word = None
+            for dx, dy in [(0,1),(0,-1),(1,0),(-1,0)]:
+                dfs(i + dx, j + dy, node)
+
+            visited[i][j] = False
+            if not node.children and node.isend == False:
+                del parent.children[c]
+
+
+    
+        for i in range(m):
+            for j in range(n):
+                dfs(i , j , trie.root)
+        
         return rst
 
 
+        

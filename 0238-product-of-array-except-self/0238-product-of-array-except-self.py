@@ -9,9 +9,7 @@ class Solution:
             left_time[i] = nums[i] * left_time[i - 1]
         for i in range(len(nums) - 2 , - 1, - 1):
             right_time[i] = nums[i] * right_time[i + 1]
-        
-        print(left_time)
-        print(right_time)
+
         rst[0] = right_time[1]
         rst[-1] = left_time[-2]
 

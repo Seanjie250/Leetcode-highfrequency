@@ -1,34 +1,25 @@
 class Solution:
-    def __init__(self):
-        self.lettermap = [
-            "",
-            "",
-            "abc",
-            "def",
-            "ghi",
-            "jkl",
-            "mno",
-            "pqrs",
-            "tuv",
-            "wxyz"
-        ]
-        self.result = []
-        self.s = ""
-    def backtracking(self,digits,index):
-        if index == len(digits):
-            self.result.append(self.s)
-            return
-        number = int(digits[index]) #locate the number
-        letters = self.lettermap[number] # find the string 
-        for i in range(len(letters)):
-            self.s += letters[i]
-            self.backtracking(digits,index + 1)
-            self.s = self.s[:-1]
     def letterCombinations(self, digits: str) -> List[str]:
-        if not digits:
-            return []
-        self.backtracking(digits,0)
-        return self.result
+        graph = {
+            "2": "abc", "3": "def", "4": "ghi", "5": "jkl",
+            "6": "mno", "7": "pqrs", "8": "tuv", "9": "wxyz"
+        }
+        rst = []
+        path = []
+        def dfs(i):
+            if i == len(digits):
+                rst.append(''.join(path))
+                return
+            for ch in graph[digits[i]]:
+                path.append(ch)
+                dfs(i + 1)
+                path.pop()
+        
+        dfs(0)
+        return rst
 
+            
+           
+                
 
         

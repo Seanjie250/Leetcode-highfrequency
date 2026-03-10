@@ -270,6 +270,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0694-number-of-distinct-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0695-max-area-of-island) |
+| [0706-design-hashmap](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0735-asteroid-collision](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0735-asteroid-collision) |
@@ -350,6 +351,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0594-longest-harmonious-subsequence) |
 | [0694-number-of-distinct-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0694-number-of-distinct-islands) |
+| [0706-design-hashmap](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0706-design-hashmap) |
 | [0752-open-the-lock](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0752-open-the-lock) |
 | [0768-partition-labels](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0778-reorganize-string) |
@@ -775,6 +777,7 @@
 |  |
 | ------- |
 | [0694-number-of-distinct-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0694-number-of-distinct-islands) |
+| [0706-design-hashmap](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0706-design-hashmap) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Stack
 |  |
@@ -865,6 +868,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0234-palindrome-linked-list) |
+| [0706-design-hashmap](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
@@ -875,6 +879,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0380-insert-delete-getrandom-o1) |
+| [0706-design-hashmap](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0706-design-hashmap) |
 ## Doubly-Linked List
 |  |
 | ------- |

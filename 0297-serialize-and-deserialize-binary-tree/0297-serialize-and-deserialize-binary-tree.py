@@ -23,7 +23,7 @@ class Codec:
 
     def deserialize(self, data):
         val = data.split(',')
-        print(val)
+       
         def dfs():
             if val[0] == 'None':
                 val.pop(0)

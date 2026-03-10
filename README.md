@@ -306,6 +306,7 @@
 | [1535-find-the-winner-of-an-array-game](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2293-min-max-game](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2293-min-max-game) |
 | [2488-count-subarrays-with-median-k](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2488-count-subarrays-with-median-k) |
+| [2502-design-memory-allocator](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2502-design-memory-allocator) |
 ## Hash Table
 |  |
 | ------- |
@@ -365,6 +366,7 @@
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2488-count-subarrays-with-median-k](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2488-count-subarrays-with-median-k) |
+| [2502-design-memory-allocator](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2502-design-memory-allocator) |
 ## String
 |  |
 | ------- |
@@ -848,6 +850,7 @@
 | [0735-asteroid-collision](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0735-asteroid-collision) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2293-min-max-game](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2293-min-max-game) |
+| [2502-design-memory-allocator](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2502-design-memory-allocator) |
 ## Linked List
 |  |
 | ------- |
@@ -886,6 +889,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0380-insert-delete-getrandom-o1) |
 | [0706-design-hashmap](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0706-design-hashmap) |
+| [2502-design-memory-allocator](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2502-design-memory-allocator) |
 ## Doubly-Linked List
 |  |
 | ------- |

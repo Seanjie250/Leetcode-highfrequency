@@ -23,6 +23,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0337-house-robber-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0543-diameter-of-binary-tree) |
@@ -53,6 +54,7 @@
 | [0210-course-schedule-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0337-house-robber-iii) |
 | [0365-water-and-jug-problem](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0365-water-and-jug-problem) |
@@ -124,6 +126,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0337-house-robber-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0543-diameter-of-binary-tree) |
@@ -398,6 +401,7 @@
 | [0224-basic-calculator](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0387-first-unique-character-in-a-string) |
@@ -731,6 +735,7 @@
 | [0210-course-schedule-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0279-perfect-squares) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0399-evaluate-division) |
@@ -878,6 +883,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0380-insert-delete-getrandom-o1) |
 | [0706-design-hashmap](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0706-design-hashmap) |
 ## Doubly-Linked List

@@ -308,6 +308,7 @@
 | [2293-min-max-game](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2293-min-max-game) |
 | [2488-count-subarrays-with-median-k](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2488-count-subarrays-with-median-k) |
 | [2502-design-memory-allocator](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2502-design-memory-allocator) |
+| [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -368,6 +369,7 @@
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2488-count-subarrays-with-median-k](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2488-count-subarrays-with-median-k) |
 | [2502-design-memory-allocator](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2502-design-memory-allocator) |
+| [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## String
 |  |
 | ------- |
@@ -574,6 +576,7 @@
 | [0854-making-a-large-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0854-making-a-large-island) |
 | [0909-snakes-and-ladders](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0994-rotting-oranges) |
+| [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -925,6 +928,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0778-reorganize-string) |
+| [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Topological Sort
 |  |
 | ------- |

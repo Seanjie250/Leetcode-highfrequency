@@ -6,7 +6,7 @@ class Solution:
             for i in range(len(s)):
                 left, right = i, i
                 while left >= 0 and right < len(s) and s[left] == s[right]:
-                    if right - left + 1 >= k:
+                    if right - left + 1 == k or right - left + 1 == k + 1:
                         rst.append([left, right])
                     left -= 1
                     right += 1
@@ -14,7 +14,7 @@ class Solution:
             for i in range(len(s)):
                 left, right = i, i + 1
                 while left >= 0 and right < len(s) and s[left] == s[right]:
-                    if right - left + 1 >= k:
+                    if right - left + 1 == k or right - left + 1 == k + 1:
                         rst.append([left, right])
                     left -= 1
                     right += 1

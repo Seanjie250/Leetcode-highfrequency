@@ -1,20 +1,27 @@
 class MyHashMap:
 
     def __init__(self):
-        self.capacity = 1000000
-        self.hash = [[-1] for _ in range(self.capacity)]
-
+        self.capacity = 1000
+        self.hash = [[] for _ in range(self.capacity)]
     def put(self, key: int, value: int) -> None:
         hash_key = key % self.capacity
-        self.hash[hash_key][0] = value
-
+        for pair in self.hash[hash_key]:
+            if pair[0] == key:
+                pair[1] = value
+                return
+        self.hash[hash_key].append([key , value])
     def get(self, key: int) -> int:
         hash_key = key % self.capacity
-        return self.hash[hash_key][0]
-
+        for pair in self.hash[hash_key]:
+            if pair[0] == key:
+                return pair[1]
+        return -1
     def remove(self, key: int) -> None:
         hash_key = key % self.capacity
-        self.hash[hash_key][0] = -1
+        for index , pair in enumerate(self.hash[hash_key]):
+            if pair[0] == key:
+                self.hash[hash_key].pop(index)
+        return 
         
 
 

@@ -430,6 +430,7 @@
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1250-longest-common-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1250-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -491,6 +492,7 @@
 | [1130-last-stone-weight-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1130-last-stone-weight-ii) |
 | [1250-longest-common-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1250-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Bit Manipulation
 |  |
@@ -621,6 +623,7 @@
 | [0881-boats-to-save-people](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0881-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1019-squares-of-a-sorted-array) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -646,6 +649,7 @@
 | [0881-boats-to-save-people](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Divide and Conquer
 |  |

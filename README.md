@@ -423,6 +423,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0678-valid-parenthesis-string) |
 | [0752-open-the-lock](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0752-open-the-lock) |
+| [0761-special-binary-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0768-partition-labels) |
 | [0772-basic-calculator-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0772-basic-calculator-iii) |
 | [0778-reorganize-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0778-reorganize-string) |
@@ -538,6 +539,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0594-longest-harmonious-subsequence) |
 | [0694-number-of-distinct-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0694-number-of-distinct-islands) |
+| [0761-special-binary-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0761-special-binary-string) |
 | [0778-reorganize-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0778-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0881-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1019-squares-of-a-sorted-array) |
@@ -666,6 +668,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0761-special-binary-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Indexed Tree
 |  |

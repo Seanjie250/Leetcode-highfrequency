@@ -5,22 +5,21 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    ans = 0
-
-    def maxDepth(self , node):
-        if not node:
-            return 0
-        left = self.maxDepth(node.left)
-        right = self.maxDepth(node.right)
-
-        self.ans = max(self.ans, left + right)
-
-        return max(left , right) + 1
-
-    def diameterOfBinaryTree(self, root):
-        self.ans = 0
-        self.maxDepth(root)
+    def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
+        self.ans = -1
+        def helper(node):
+            if not node:
+                return 0
+            if node.left:
+                left = helper(node.left)
+            else:
+                left = 0
+            if node.right:
+                right = helper(node.right)
+            else:
+                right = 0
+            maxm = max(left , right) + 1
+            self.ans = max(self.ans , right + left)
+            return maxm
+        maxm = helper(root)
         return self.ans
-
-
-        

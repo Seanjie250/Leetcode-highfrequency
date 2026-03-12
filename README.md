@@ -161,6 +161,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0494-target-sum) |
 | [0773-sliding-puzzle](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0773-sliding-puzzle) |
+| [1980-find-unique-binary-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1980-find-unique-binary-string) |
 ## Array
 |  |
 | ------- |
@@ -312,6 +313,7 @@
 | [1534-count-good-triplets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1534-count-good-triplets) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1929-concatenation-of-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1929-concatenation-of-array) |
+| [1980-find-unique-binary-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1980-find-unique-binary-string) |
 | [2293-min-max-game](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2293-min-max-game) |
 | [2488-count-subarrays-with-median-k](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2488-count-subarrays-with-median-k) |
 | [2502-design-memory-allocator](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2502-design-memory-allocator) |
@@ -375,6 +377,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
+| [1980-find-unique-binary-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1980-find-unique-binary-string) |
 | [2488-count-subarrays-with-median-k](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2488-count-subarrays-with-median-k) |
 | [2502-design-memory-allocator](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2502-design-memory-allocator) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -439,6 +442,7 @@
 | [1250-longest-common-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1250-longest-common-subsequence) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1980-find-unique-binary-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1980-find-unique-binary-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |

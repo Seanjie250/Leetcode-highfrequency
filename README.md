@@ -63,6 +63,7 @@
 | [0463-island-perimeter](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0463-island-perimeter) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0694-number-of-distinct-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0695-max-area-of-island) |
@@ -766,6 +767,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0694-number-of-distinct-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0695-max-area-of-island) |
@@ -995,6 +997,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0547-number-of-provinces) |
 | [0694-number-of-distinct-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0694-number-of-distinct-islands) |
 | [0827-making-a-large-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0827-making-a-large-island) |
 ## Graph Theory
@@ -1003,6 +1006,7 @@
 | [0207-course-schedule](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0547-number-of-provinces) |
 | [1462-course-schedule-iv](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1462-course-schedule-iv) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path

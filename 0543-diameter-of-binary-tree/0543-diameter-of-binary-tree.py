@@ -9,7 +9,7 @@ class Solution:
         self.ans = -1
         def helper(node):
             if not node:
-                return 0
+                return -1
             if node.left:
                 left = helper(node.left)
             else:

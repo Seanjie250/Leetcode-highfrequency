@@ -1,19 +1,27 @@
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
-        max_heap , min_heap = [] , []
-        for num in nums1 + nums2:
-            heapq.heappush(max_heap , - num)
-            heapq.heappush(min_heap , -heapq.heappop(max_heap))
+        
+       
+        if len(nums1)> len(nums2):
+            return self.findMedianSortedArrays(nums2 , nums1)
+        m , n = len(nums1) , len(nums2)
+        left , right = 0 , m
+        while left <= right:
+            part1 = (left + right) // 2
+            part2 = (m + n + 1) // 2 - part1
 
-            if len(min_heap) > len(max_heap):
-                heapq.heappush(max_heap , -heapq.heappop(min_heap))
-            
-        if len(min_heap) < len(max_heap):
-            median = - max_heap[0]
-            
-        else:
-            median = (min_heap[0] - max_heap[0]) / 2
-        return median
+            max_left1 = float('-inf') if part1 == 0 else nums1[part1 - 1]
+            min_right1 = float('inf') if part1 == m else nums1[part1]
+            max_left2 = float('-inf') if part2 == 0 else nums2[part2 - 1]
+            min_right2 = float('inf') if part2 == n else nums2[part2]
 
-            
-
+            if max_left1 <= min_right2 and min_right1 >= max_left2:
+                if (m + n) % 2 == 0:
+                    return (max(max_left1 , max_left2) + min(min_right1 , min_right2)) / 2
+                else:
+                    return max(max_left1, max_left2)
+            elif max_left1 > min_right2:
+                right = part1 - 1
+            else:
+                left = part1 + 1
+        

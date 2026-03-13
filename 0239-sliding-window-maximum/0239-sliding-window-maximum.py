@@ -10,7 +10,6 @@ class Solution:
             
             if q[0] + k - 1 < i:
                 q.popleft()
-            
             if i - k + 1 >= 0 :
                 rst.append(nums[q[0]])
         return rst

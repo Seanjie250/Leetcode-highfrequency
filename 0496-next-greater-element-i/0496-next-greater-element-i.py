@@ -8,7 +8,7 @@ class Solution:
                 stack.pop()
             stack.append(i)
 
-        print(next_greater)
+        
         rst = []
         for num in nums1:
             index = nums2.index(num)

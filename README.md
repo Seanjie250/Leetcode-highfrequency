@@ -311,6 +311,7 @@
 | [1105-uncrossed-lines](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1105-uncrossed-lines) |
 | [1130-last-stone-weight-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1130-last-stone-weight-ii) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1152-analyze-user-website-visit-pattern) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1534-count-good-triplets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1534-count-good-triplets) |
@@ -563,6 +564,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1152-analyze-user-website-visit-pattern) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Graph
 |  |
@@ -670,6 +672,7 @@
 | [0881-boats-to-save-people](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Divide and Conquer
@@ -953,6 +956,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0502-ipo) |
 | [0778-reorganize-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0778-reorganize-string) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Counting
 |  |

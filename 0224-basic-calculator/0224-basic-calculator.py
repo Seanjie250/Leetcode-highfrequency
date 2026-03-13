@@ -1,13 +1,13 @@
 class Solution:
     def calculate(self, s: str) -> int:
         i = 0
+        
         def helper():
-            n = len(s)
             nonlocal i
             stack = []
-            sign = '+'
             num = 0
-            while i < n:
+            sign = '+'
+            while i < len(s):
                 ch = s[i]
                 if ch == ' ':
                     i += 1
@@ -22,27 +22,33 @@ class Solution:
                     continue
                 if sign == '+':
                     stack.append(num)
+                    num = 0
                 elif sign == '-':
                     stack.append(-num)
+                    num = 0
                 elif sign == '*':
-                    stack[-1] = stack[-1] * num
+                    stack[-1] = (stack[-1] * num)
+                    num = 0
                 elif sign == '/':
-                    stack[-1] = int(stack[-1] / num)
+                    stack[-1] = (stack[-1] // num)
+                    num = 0
                 if ch == ')':
                     i += 1
                     return sum(stack)
-                num = 0
-                sign = ch 
                 i += 1
-
+                sign = ch
+                
             if sign == '+':
-                stack.append(num)
+                stack.append(num)    
             elif sign == '-':
                 stack.append(-num)
             elif sign == '*':
-                stack[-1] = stack[-1] * num
+                stack[-1] = (stack[-1] * num)
             elif sign == '/':
-                stack[-1] = int(stack[-1] / num)
+                stack[-1] = (stack[-1] // num)
             return sum(stack)
         return helper()
                 
+
+
+

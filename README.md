@@ -312,6 +312,7 @@
 | [1105-uncrossed-lines](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1105-uncrossed-lines) |
 | [1130-last-stone-weight-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1130-last-stone-weight-ii) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1152-analyze-user-website-visit-pattern) |
+| [1314-matrix-block-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1314-matrix-block-sum) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -605,6 +606,7 @@
 | [0854-making-a-large-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0854-making-a-large-island) |
 | [0909-snakes-and-ladders](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0994-rotting-oranges) |
+| [1314-matrix-block-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1314-matrix-block-sum) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Two Pointers
 |  |
@@ -888,6 +890,7 @@
 | [0528-random-pick-with-weight](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1004-max-consecutive-ones-iii) |
+| [1314-matrix-block-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1314-matrix-block-sum) |
 | [2488-count-subarrays-with-median-k](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2488-count-subarrays-with-median-k) |
 ## Simulation
 |  |

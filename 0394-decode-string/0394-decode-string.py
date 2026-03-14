@@ -4,12 +4,11 @@ class Solution:
         stack = []
         i = 0
         string = ''
-        for i in range(len(s)):
+        while i < len(s):
             ch = s[i]
             if ch.isdigit():
                 num = num * 10 + int(ch)
-                continue
-            if ch == '[':
+            elif ch == '[':
                 stack.append((num , string))
                 string = ''
                 num = 0
@@ -18,5 +17,7 @@ class Solution:
                 string = prestr + string * prenum
             else:
                 string += ch
+                print(string)
+            i += 1
         return string
         

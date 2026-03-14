@@ -9,15 +9,12 @@ class Solution:
             if ch == '{':
                 stack.append('}')
             if ch == ')':
-                if not stack or stack.pop() != ch:
+                if not stack or ch != stack.pop():
                     return False
             if ch == ']':
-                if not stack or stack.pop() != ch:
+                if not stack or ch != stack.pop():
                     return False
             if ch == '}':
-                if not stack or stack.pop() != ch:
+                if not stack or ch != stack.pop():
                     return False
         return True if not stack else False
-                   
-
-            

@@ -9,11 +9,11 @@ class Solution:
                 nums[w] , nums[r] = nums[r] , nums[w]
                 r += 1
                 w += 1
-                print(nums)
+               
             elif nums[w] == 2:
                 nums[w] , nums[b] = nums[b] , nums[w]
                 b -= 1
-                print(nums)
+                
             else:
                 w += 1
         

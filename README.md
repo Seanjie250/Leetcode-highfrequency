@@ -58,6 +58,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0337-house-robber-iii) |
 | [0365-water-and-jug-problem](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0365-water-and-jug-problem) |
@@ -799,6 +800,7 @@
 | [0226-invert-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0399-evaluate-division) |
@@ -1004,6 +1006,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0310-minimum-height-trees) |
 | [1462-course-schedule-iv](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1462-course-schedule-iv) |
 ## Counting Sort
 |  |
@@ -1062,6 +1065,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0547-number-of-provinces) |
 | [1462-course-schedule-iv](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1462-course-schedule-iv) |

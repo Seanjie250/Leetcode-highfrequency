@@ -326,6 +326,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1929-concatenation-of-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1980-find-unique-binary-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2073-time-needed-to-buy-tickets) |
 | [2293-min-max-game](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2293-min-max-game) |
 | [2488-count-subarrays-with-median-k](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2488-count-subarrays-with-median-k) |
 | [2502-design-memory-allocator](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2502-design-memory-allocator) |
@@ -919,6 +920,7 @@
 | [0735-asteroid-collision](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0735-asteroid-collision) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1929-concatenation-of-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2073-time-needed-to-buy-tickets) |
 | [2293-min-max-game](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2293-min-max-game) |
 | [2502-design-memory-allocator](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2502-design-memory-allocator) |
 ## Linked List
@@ -1024,6 +1026,7 @@
 | [0239-sliding-window-maximum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0918-maximum-sum-circular-subarray) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
 | ------- |

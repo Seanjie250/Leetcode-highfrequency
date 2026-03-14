@@ -744,6 +744,7 @@
 | [0365-water-and-jug-problem](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0365-water-and-jug-problem) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0380-insert-delete-getrandom-o1) |
 | [0390-elimination-game](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0390-elimination-game) |
+| [0445-add-two-numbers-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0445-add-two-numbers-ii) |
 | [0528-random-pick-with-weight](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0528-random-pick-with-weight) |
 | [0738-monotone-increasing-digits](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0738-monotone-increasing-digits) |
 | [0772-basic-calculator-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0772-basic-calculator-iii) |
@@ -865,6 +866,7 @@
 | [0234-palindrome-linked-list](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -949,6 +951,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0445-add-two-numbers-ii) |
 | [0706-design-hashmap](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0876-middle-of-the-linked-list) |
 ## Design

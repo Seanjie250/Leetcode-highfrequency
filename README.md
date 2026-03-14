@@ -62,6 +62,7 @@
 | [0399-evaluate-division](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0472-concatenated-words) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0545-boundary-of-binary-tree) |
@@ -267,6 +268,7 @@
 | [0454-4sum-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0491-non-decreasing-subsequences) |
@@ -435,6 +437,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0472-concatenated-words](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0583-delete-operation-for-two-strings) |
@@ -492,6 +495,7 @@
 | [0392-is-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0435-non-overlapping-intervals) |
+| [0472-concatenated-words](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0516-longest-palindromic-subsequence) |
@@ -557,6 +561,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0455-assign-cookies) |
+| [0472-concatenated-words](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0472-concatenated-words) |
 | [0502-ipo](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0594-longest-harmonious-subsequence) |
@@ -809,6 +814,7 @@
 | [0139-word-break](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0212-word-search-ii) |
+| [0472-concatenated-words](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0472-concatenated-words) |
 ## Sliding Window
 |  |
 | ------- |

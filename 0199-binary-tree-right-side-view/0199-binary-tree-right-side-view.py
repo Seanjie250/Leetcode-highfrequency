@@ -19,6 +19,6 @@ class Solution:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
-        print(rst)
+        
         return rst
         

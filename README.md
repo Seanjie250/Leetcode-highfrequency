@@ -109,6 +109,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1027-longest-arithmetic-subsequence) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -322,6 +323,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1534-count-good-triplets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1534-count-good-triplets) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1929-concatenation-of-array](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1980-find-unique-binary-string) |
 | [2293-min-max-game](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2293-min-max-game) |
@@ -386,6 +388,7 @@
 | [1152-analyze-user-website-visit-pattern](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1980-find-unique-binary-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1980-find-unique-binary-string) |
 | [2488-count-subarrays-with-median-k](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2488-count-subarrays-with-median-k) |
@@ -831,6 +834,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1004-max-consecutive-ones-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -901,6 +905,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1109-corporate-flight-bookings) |
 | [1314-matrix-block-sum](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1314-matrix-block-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2488-count-subarrays-with-median-k](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/2488-count-subarrays-with-median-k) |
 ## Simulation
 |  |

@@ -73,6 +73,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0694-number-of-distinct-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0743-network-delay-time) |
 | [0827-making-a-large-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0827-making-a-large-island) |
 | [0854-making-a-large-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0854-making-a-large-island) |
 | [1008-binary-tree-cameras](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1008-binary-tree-cameras) |
@@ -811,6 +812,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0694-number-of-distinct-islands](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0773-sliding-puzzle) |
 | [0827-making-a-large-island](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0827-making-a-large-island) |
@@ -987,6 +989,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0502-ipo) |
+| [0743-network-delay-time](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0743-network-delay-time) |
 | [0778-reorganize-string](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0778-reorganize-string) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -1068,12 +1071,14 @@
 | [0310-minimum-height-trees](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0743-network-delay-time) |
 | [1462-course-schedule-iv](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/1462-course-schedule-iv) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/0743-network-delay-time) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Seanjie250/Leetcode-highfrequency/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Geometry
 |  |

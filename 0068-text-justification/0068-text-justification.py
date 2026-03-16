@@ -1,30 +1,36 @@
 class Solution:
     def fullJustify(self, words: List[str], maxWidth: int) -> List[str]:
-        rst , cur = [] , []
-        cur_width = 0
+        rst = []
+        length = 0
+        path = []
         for word in words:
-            if cur_width + len(word) + len(cur) > maxWidth:
-                total_spaces = maxWidth - cur_width
-                gaps = len(cur) - 1
-                if gaps == 0:
-                    rst.append(cur[0] + ' '*total_spaces)
+            if len(path) + len(word) + length > maxWidth:
+                spaces = maxWidth - length
+                string = ''
+                if len(path) == 1:
+                    string = path[0] + ' ' * (spaces)
                 else:
-                    space_per_gap = total_spaces // gaps
-                    extra_spaces = total_spaces % gaps
-                    line = ''
-                    for i , w in enumerate(cur):
-                        line += w
-                        if i < gaps:
-                            line += ' '*space_per_gap
-                            if i < extra_spaces:
-                                line += ' '
-                    rst.append(line)
-                cur , cur_width = [] , 0
-            cur.append(word)
-            cur_width += len(word)
-        last_line = ' '.join(cur)
-        remaining_spaces = maxWidth - len(last_line)
-        rst.append(last_line + ' '*remaining_spaces)
+                    space = spaces // (len(path) - 1)
+                    extra = spaces % (len(path) - 1)
+                    for i in range(len(path)-1):
+                        string += path[i]
+                        if i < extra:
+                            string += ' ' * (space + 1)
+                        else:
+                            string += ' ' * space
+                    string += path[-1]
+                rst.append(string)
+                path = []
+                length = 0
+            path.append(word)
+            length += len(word)
+
+        laststring = ' '.join(path)
+        space = maxWidth - len(laststring)
+        laststring = laststring + ' ' * space
+        rst.append(laststring)
         return rst
 
+                        
+                    
         

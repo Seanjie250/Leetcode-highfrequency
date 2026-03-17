@@ -1,43 +1,45 @@
 class Solution:
-    directions = [[1 , 0] , [-1, 0] , [0 , -1], [0 , 1]]
-    def dfs(self , grid , i , j , island_id , area):
-        grid[i][j] = island_id 
-        m , n = len(grid) , len(grid[0])
-        for dx , dy in self.directions:
-            new_x = dx + i 
-            new_y = dy + j
-            if 0 <= new_x < m and 0 <= new_y < n and grid[new_x][new_y] == 1:
-                area += 1
-                area = self.dfs(grid , new_x , new_y ,island_id , area)
-        return area
-
+    directions = [[-1 , 0] , [1, 0] , [0 , 1] , [0 , -1]]
     def largestIsland(self, grid: List[List[int]]) -> int:
         m , n = len(grid) , len(grid[0])
-        maxm = float('-inf')
-        count = 1
+        def dfs(i , j , island_id):
+            count = 1
+            m , n = len(grid) , len(grid[0])
+            grid[i][j] = island_id
+            for dx , dy in self.directions:
+                new_x = i + dx
+                new_y = j + dy
+                if 0 <= new_x < m and 0 <= new_y < n and grid[new_x][new_y] == 1:
+                    count += dfs(new_x , new_y , island_id)
+            return count
+        
         island_id = 2
-        island_area = defaultdict(int)
+        size = {}
         for i in range(m):
             for j in range(n):
                 if grid[i][j] == 1:
-                    area = 1
-                    island_area[island_id] = self.dfs(grid ,  i , j , island_id, area)
+                    count = dfs(i , j , island_id)
+                    size[island_id] = count
+                    
                     island_id += 1
-        maxm = max(island_area.values(), default=0)
+        ans = float('-inf')
+        
         for i in range(m):
             for j in range(n):
                 if grid[i][j] == 0:
-                    seen = set()
-                    a = 1
+                    area = 1
+                    visited = set()
                     for dx , dy in self.directions:
-                        new_x = dx + i 
-                        new_y = dy + j
-                        if 0 <= new_x < m and 0 <= new_y < n and grid[new_x][new_y] > 1 and grid[new_x][new_y] not in seen:
-                            a += island_area[grid[new_x][new_y]]
-                            print(a)
-                            seen.add(grid[new_x][new_y])
-                    maxm = max(maxm , a)
-                
-        return maxm
+                        new_x = i + dx
+                        new_y = j + dy
+                        if 0 <= new_x < m and 0 <= new_y < n and grid[new_x][new_y] not in visited and  grid[new_x][new_y] > 1:
+                            area += size[grid[new_x][new_y]]
+                            visited.add(grid[new_x][new_y])
+                    ans = max(ans , area)
+        return ans if ans != float('-inf') else m * n
+
+        
+
+
 
         

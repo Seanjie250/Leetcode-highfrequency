@@ -1,38 +1,45 @@
 class Solution:
     def calculate(self, s: str) -> int:
         i = 0
+        
         def helper():
-            n = len(s)
             nonlocal i
             stack = []
-            sign = '+'
             num = 0
-            while i < n:
+            sign = '+'
+            
+            while i < len(s):
                 ch = s[i]
+
                 if ch == ' ':
                     i += 1
                     continue
+
                 if ch.isdigit():
                     num = num * 10 + int(ch)
                     i += 1
                     continue
+
                 if ch == '(':
                     i += 1
                     num = helper()
                     continue
+
+                if ch == ')':
+                    break
+
+                # operator
                 if sign == '+':
                     stack.append(num)
                 elif sign == '-':
                     stack.append(-num)
                 elif sign == '*':
-                    stack[-1] = stack[-1] * num
+                    stack[-1] *= num
                 elif sign == '/':
                     stack[-1] = int(stack[-1] / num)
-                if ch == ')':
-                    i += 1
-                    return sum(stack)
+
+                sign = ch
                 num = 0
-                sign = ch 
                 i += 1
 
             if sign == '+':
@@ -40,9 +47,11 @@ class Solution:
             elif sign == '-':
                 stack.append(-num)
             elif sign == '*':
-                stack[-1] = stack[-1] * num
+                stack[-1] *= num
             elif sign == '/':
                 stack[-1] = int(stack[-1] / num)
+
+            i += 1  # move past ')'
             return sum(stack)
+
         return helper()
-                

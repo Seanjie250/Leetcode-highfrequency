@@ -1,23 +1,22 @@
 class Solution:
+    direction = [[-1 , 0] , [1 , 0] , [0 , 1] , [0 , -1]]
     def numIslands(self, grid: List[List[str]]) -> int:
         m , n = len(grid) , len(grid[0])
-        count = 0
-        visited = [[False] * n for _ in range(m)]
+        visited  = [[False] * n for _ in range(m)]
         def dfs(i , j):
-            if not( 0<= i < m and 0<= j < n and not visited[i][j] and grid[i][j] == '1'):
-                return 
             visited[i][j] = True
-            dfs(i + 1, j)
-            dfs(i - 1, j)
-            dfs(i, j + 1)
-            dfs(i, j - 1)
-        
-           
+            for dx , dy in self.direction:
+                new_x = dx + i
+                new_y = dy + j
+                if 0 <= new_x < m and 0 <= new_y < n and not visited[new_x][new_y] and grid[new_x][new_y] == '1':
+                    dfs(new_x , new_y)
+        count = 0
         for i in range(m):
             for j in range(n):
                 if grid[i][j] == '1' and not visited[i][j]:
-                    count += 1
                     dfs(i , j)
-        return count 
+                    count += 1
+        return count
+
 
         

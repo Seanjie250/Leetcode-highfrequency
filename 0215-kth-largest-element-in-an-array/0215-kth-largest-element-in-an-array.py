@@ -6,5 +6,5 @@ class Solution:
         
         for _ in range(k - 1):
             heapq.heappop(heap)
-        print(heap)
+       
         return  - heap[0]        

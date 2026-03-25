@@ -4,8 +4,11 @@ class Solution:
         tail = []
         for num in nums:
             index = bisect_left(tail , num)
-            if index == len(tail):
-                tail.append(num)
+            if tail:
+                if index == len(tail):
+                    tail.append(num)
+                else:
+                    tail[index] = num
             else:
-                tail[index] = num
+                tail.append(num)
         return len(tail)

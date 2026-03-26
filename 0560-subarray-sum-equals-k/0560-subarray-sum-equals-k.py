@@ -7,7 +7,5 @@ class Solution:
             prefix += num
             ans += count.get(prefix - k , 0)
             count[prefix] = count.get(prefix , 0) + 1
-            
         return ans
-
         

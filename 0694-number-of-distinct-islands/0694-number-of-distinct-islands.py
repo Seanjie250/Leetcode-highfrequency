@@ -1,28 +1,26 @@
-class Solution:
-    directions = [[1,0] , [-1,0] , [0,1] , [0,-1]]
-    def dfs(self, grid, visited , i , j , originali , originalj , path):
-        visited[i][j] = True
-        path.append((i - originali,j - originalj))
-        m , n = len(grid) , len(grid[0])
-        for dx , dy in self.directions:
-            nx ,ny = i + dx , j + dy
-            if 0<= nx < m and 0<= ny < n and grid[nx][ny] == 1 and not visited[nx][ny]:
-                
-                self.dfs(grid, visited , nx, ny , originali , originalj , path)
-        return path
-        
-
+class Solution:        
     def numDistinctIslands(self, grid: List[List[int]]) -> int:
         m , n = len(grid) , len(grid[0])
         visited = [[False] * n for _ in range(m)]
-        seen = set()
+        distict = set()
+        def dfs(i , j , originalX , originalY , coordinate):
+            if 0<= i < m and 0<= j < n and grid[i][j] == 1 and not visited[i][j]:
+                visited[i][j] = True
+                coordinate.append((originalX - i , originalY - j))
+                
+                dfs(i + 1 , j , originalX , originalY , coordinate)
+                dfs(i - 1 , j , originalX , originalY , coordinate)
+                dfs(i , j + 1 , originalX , originalY , coordinate)
+                dfs(i , j - 1 , originalX , originalY , coordinate)
+            return coordinate
+        count = 0
         for i in range(m):
             for j in range(n):
                 if grid[i][j] == 1 and not visited[i][j]:
-                    island_shape = self.dfs(grid, visited , i , j ,i , j ,[])
-                    if island_shape:
-                        print(island_shape)
-                        seen.add(tuple(island_shape))
-        return len(seen)
+                    coordinate = []
+                    shape = dfs(i , j , i , j , coordinate)
+                    count += 1
+                    distict.add(tuple(sorted(coordinate)))
+        return len(distict)
 
         

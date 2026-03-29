@@ -10,21 +10,21 @@ class Solution:
         while c:
             n += 1
             c = c.next
-        dummy = ListNode(next = head)
+        dummy = ListNode(0 , next = head)
         p0 = dummy
         cur = head
         while n >= k:
-            n -= k
-            pre = None
-            start = cur
-            for _ in range(k):
-                nxt = cur.next
-                cur.next = pre
-                pre = cur
-                cur = nxt
-            p0.next = pre
-            start.next = cur
-            p0 = start
+                n -= k
+                pre = None
+                start = cur
+                for _ in range(k):
+                    nxt = cur.next
+                    cur.next =  pre
+                    pre = cur
+                    cur = nxt
+                p0.next = pre
+                start.next = cur
+                p0 = start
         return dummy.next
             
 

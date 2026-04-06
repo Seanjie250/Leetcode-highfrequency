@@ -1,8 +1,12 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        list_ = defaultdict(list)
+        counter = defaultdict(list)
         for string in strs:
-            list_[tuple(sorted(string))].append(string)
-        return [item for _ , item in list_.items()]
+            counter[tuple(sorted(string))].append(string)
+        print(counter)
+        rst = []
+        for index , sublist in counter.items():
+            rst.append(sublist)
+        return rst
 
         

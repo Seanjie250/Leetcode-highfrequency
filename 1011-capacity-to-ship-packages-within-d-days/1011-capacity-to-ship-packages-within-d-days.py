@@ -12,17 +12,15 @@ class Solution:
             if total > 0:
                 count += 1
             return count
-        left = min(weights)
+        left = max(weights)
         right = sum(weights)
-        while left <= right:
+        while left < right:
             mid = (left + right) // 2
             time = countdays(mid)
-            if time == days:
-                return mid
-            elif time > days:
+            if time > days:
                 left = mid + 1
             else:
-                right = mid - 1
+                right = mid 
         return left
 
 

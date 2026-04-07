@@ -1,23 +1,20 @@
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        def canfinish(piles , h , k):
+        def canfinish(capacity):
             time = 0
             for pile in piles:
-                time += pile // k
-                pile = pile % k
+                time += pile // capacity
+                pile = pile % capacity
                 if pile > 0:
                     time += 1
-                if time > h:
-                    return False
-            return True
-        
-        left = 1 
-        right = max(piles)
-        while left <= right:
+            print(time)
+            return time <= h
+        left , right = 1 , max(piles)
+        while left < right:
             mid = (left + right) // 2
-            if canfinish(piles , h , mid):
-                right = mid - 1
+            if canfinish(mid):
+                right = mid
             else:
-                left  = mid + 1
+                left = mid + 1
         return left
-        
+

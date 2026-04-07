@@ -1,12 +1,12 @@
 class Solution:
-    def backtracking(self,nums,path,rst,startindex):
-        rst.append(path[:])
-        for i in range(startindex,len(nums)):
-            path.append(nums[i])
-            self.backtracking(nums,path,rst,i + 1)
-            path.pop()
     def subsets(self, nums: List[int]) -> List[List[int]]:
         rst = []
         path = []
-        self.backtracking(nums,path,rst,0)
+        def dfs(i , path):
+            rst.append(path.copy())
+            for j in range(i , len(nums)):
+                path.append(nums[j])
+                dfs(j + 1 , path)
+                path.pop()
+        dfs(0 , path)
         return rst

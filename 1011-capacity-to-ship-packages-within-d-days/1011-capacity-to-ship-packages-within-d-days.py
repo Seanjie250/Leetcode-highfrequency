@@ -1,27 +1,24 @@
 class Solution:
-    def shipWithinDays(self, weights: List[int], days: int) -> int:
-        def countdays(capacity):
-            count = 0
-            total = 0
-            for weight in weights:
-                if total + weight > capacity:
-                    count += 1
-                    total = weight
-                else:
-                    total += weight
-            if total > 0:
-                count += 1
-            return count
-        left = max(weights)
-        right = sum(weights)
-        while left < right:
-            mid = (left + right) // 2
-            time = countdays(mid)
-            if time > days:
-                left = mid + 1
+    def canfinish(self, weights , days , capacity):
+        ship = 0
+        c = 1
+        for weight in weights:
+            if ship + weight <= capacity:
+                ship += weight
             else:
-                right = mid 
-        return left
+                c += 1
+                ship = weight
+        return c <= days
 
 
+    def shipWithinDays(self, weights: List[int], days: int) -> int:
+        l , r = max(weights) , sum(weights)
+        while l <= r:
+            mid = (l + r) // 2
+            if self.canfinish(weights , days , mid):
+                r = mid - 1
+            else:
+                l = mid + 1
+        return l
+        
         

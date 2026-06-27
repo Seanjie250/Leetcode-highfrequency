@@ -12,8 +12,6 @@ class Solution:
             seen.add(p1)
             p1 = p1.next
         p2 = headB
-        if p2 in seen:
-            return p2
         while p2 not in seen and p2:
             p2 = p2.next
         return p2 if p2 else None

@@ -2,7 +2,10 @@ class Solution:
     def canfinished(self , piles , k , h):
         time = 0
         for pile in piles:
-            time += (pile + k - 1) // k
+        
+            time += pile // k
+            if pile % k != 0 :
+                time += 1    
         return time <= h
 
 

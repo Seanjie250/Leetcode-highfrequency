@@ -1,21 +1,18 @@
 class Solution:
-    def dfs(self , path , rst , nums , visited):
-        if len(path) == len(nums) and path not in rst:
-            rst.append(path[:])
-        for num in nums:
-            if num not in visited:
-                visited.add(num)
-                path.append(num)
-                self.dfs(path , rst,  nums , visited)
-                path.pop()
-                visited.remove(num)
-        return rst
     def permute(self, nums: List[int]) -> List[List[int]]:
-        rst = []
         path = []
-        visited = set()
-        rst = self.dfs(path , rst,  nums ,visited)
+        seen = set()
+        rst = []
+        def backtracking(path , seen):
+            if len(path) == len(nums):
+                rst.append(path[:])
+            for num in nums:
+                if num not in seen:
+                    seen.add(num)
+                    path.append(num)
+                    backtracking(path , seen)
+                    seen.remove(num)
+                    path.pop()
+        backtracking(path , seen)
         return rst
-
-        
         

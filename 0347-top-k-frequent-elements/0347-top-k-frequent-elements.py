@@ -4,8 +4,7 @@ class Solution:
         heap = []
         res = []
         for num , count in counter.items():
-            heap.append((-count , num))
-        heapq.heapify(heap)
+            heapq.heappush(heap , (-count , num))
 
         for _ in range(k):
             res.append(heapq.heappop(heap)[1])

@@ -3,10 +3,10 @@ class Solution:
         intervals = sorted(intervals , key = lambda x : x[0])
         rst = []
         rst.append(intervals[0])
-        for interval in intervals[1:]:
-            if interval[0] <= rst[-1][1]:
-                rst[-1][0] = min(interval[0] , rst[-1][0])
-                rst[-1][1] = max(interval[1] , rst[-1][1])
+        for start , end in intervals[1:]:
+            if rst and start <= rst[-1][1]:
+                rst[-1][1] = max(end , rst[-1][1])
             else:
-                rst.append(interval)
+                rst.append([start , end])
+
         return rst

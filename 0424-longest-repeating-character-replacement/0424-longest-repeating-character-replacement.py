@@ -1,17 +1,18 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        count = defaultdict(int)
-        left , right = 0 , 0
-        maxm = float('-inf')
-        while right < len(s):
-            count[s[right]] += 1
-            maxlength = max(count.values())
-            while right - left + 1 - maxlength > k:
-                count[s[left]] -= 1
-                left += 1
-            maxm = max(maxm , right - left + 1)
-            right += 1
-        return maxm
+        l = 0
+        maxm = 0
+        rst  = 0
+        table = defaultdict(int)
+        for r in range(len(s)):
+            letter = s[r]
+            table[letter] += 1
+            maxm = max(maxm , table[letter])
+            while r - l + 1 - maxm > k:
+                table[s[l]] -= 1
+                if table[s[l]] == 0:
+                    del table[s[l]]
+                l += 1
+            rst = max(rst , r - l + 1)
+        return rst
 
-
-        

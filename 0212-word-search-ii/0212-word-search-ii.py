@@ -1,55 +1,42 @@
-class TireNode:
+class TrieNode:
     def __init__(self):
-        self.isend = False
-        self.node = None
         self.children = {}
-class Tire:
-    def __init__(self):
-        self.root = TireNode()
-    def insert(self , word):
-        node = self.root
-        for ch in word:
-            if ch not in node.children:
-                node.children[ch] = TireNode()
-            node = node.children[ch]
-        node.isend = True
-        node.word = word
-         
+        self.end = None
 class Solution:
     def findWords(self, board: List[List[str]], words: List[str]) -> List[str]:
         m , n = len(board) , len(board[0])
-        trie = Tire()
+        root = TrieNode()
         for word in words:
-            trie.insert(word)
-        visited = [[False] * n for _ in range(m)]
+            node = root
+            for cr in word:
+                if cr not in node.children:
+                    node.children[cr] = TrieNode()
+                node = node.children[cr]
+            node.end = word
+
+        print(root)
         rst = []
-
-        def dfs(i , j ,parent):
-            if not(0<= i < m and 0 <= j < n and not visited[i][j]):
-                return  
-            c = board[i][j]
-            if not c in parent.children:
+        def dfs(node, i , j):
+            char = board[i][j]
+            if char not in node.children:
                 return
-            node = parent.children[c]
-            visited[i][j] = True
-            if node.isend and node.word:
-                word = node.word
-                rst.append(word)
-                node.word = None
-            for dx, dy in [(0,1),(0,-1),(1,0),(-1,0)]:
-                dfs(i + dx, j + dy, node)
+            cur_node = node.children[char]
+            if cur_node.end:
+                rst.append(cur_node.end)
+                cur_node.end = None
+            board[i][j] = '#'
+            for dr, dc in [(0, 1), (0, -1), (1, 0), (-1, 0)]:
+                nr, nc = i + dr, j + dc
+                if 0 <= nr < m and 0 <= nc < n and board[nr][nc] != "#":
+                    dfs(cur_node , nr, nc)
+            board[i][j] = char
 
-            visited[i][j] = False
-            if not node.children and node.isend == False:
-                del parent.children[c]
-
-
-    
         for i in range(m):
             for j in range(n):
-                dfs(i , j , trie.root)
-        
+                dfs(root , i , j)
         return rst
 
+            
+            
 
         
